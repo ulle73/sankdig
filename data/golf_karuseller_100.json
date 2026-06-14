@@ -1,0 +1,1204 @@
+{
+  "karuseller": [
+    {
+      "id": 1,
+      "titel": "Snittscoren är 86 – inte 79",
+      "bilder": {
+        "bild_1_fragan": "Vad är den verkliga snittscoren för en amatörgolfare på 18 hål?",
+        "bild_2_svaret": "86.4 – Snittet bland Shot Scope-användare 2025, baserat på 870 000+ rundor.",
+        "bild_3_det_betyder": "De flesta rundor hamnar i mitten av 80-talet. Väldigt få är under 75 eller över 110. Amatörsgolf lever i 80-talet.",
+        "bild_4_du_tror_men_problemet": "Du tror att du spelar sämre än genomsnittet. Problemet: de flesta överskattar hur bra andra spelar. 86 är normalt.",
+        "bild_5_kort_plan": "1. Acceptera var du faktiskt befinner dig\n2. Sätt realistiska mål (+/- 3 slag)\n3. Jämför dig med data, inte med känsla",
+        "bild_6_kommentarsfråga": "Vad är ditt bästa resultat på 18 hål någonsin? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 2,
+      "titel": "Bryta 90 är vanligt – bryta 80 är svårt",
+      "bilder": {
+        "bild_1_fragan": "Hur vanligt är det att bryta de stora scoregränserna i golf?",
+        "bild_2_svaret": "Bryta 100: 94.7%\nBryta 90: 74.8%\nBryta 80: 31.2%\nBryta 70: 1.9%",
+        "bild_3_det_betyder": "Varje tröskel är dramatiskt svårare än föregående. Bryta 80 är ett genuint elitprestationssprång.",
+        "bild_4_du_tror_men_problemet": "Du tror att bryta 80 är 'nästa steg'. Problemet: det är faktiskt ett steg som 69 av 100 spelare aldrig tar.",
+        "bild_5_kort_plan": "1. Fokusera på att minska stora misstag\n2. Räkna bogeys – inte birdies\n3. Konsistens är nyckeln, inte topprundor",
+        "bild_6_kommentarsfråga": "Vilken scoregräns försöker du just nu slå? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 3,
+      "titel": "Låg score = färre misstag, inte fler birdies",
+      "bilder": {
+        "bild_1_fragan": "Vad separerar en 5-handicap från en 20-handicap egentligen?",
+        "bild_2_svaret": "Birdies är sällsynta på alla nivåer. Skillnaden är frekvensen av dubbelbogeys och värre.",
+        "bild_3_det_betyder": "Bättre spelare gör inte fler birdies. De gör drastiskt färre treor och fyror. Skadestopp vinner rundan.",
+        "bild_4_du_tror_men_problemet": "Du tror att du behöver göra fler birdies för att sänka handicapen. Problemet: en dubbelbogey kostar mer än en birdie ger.",
+        "bild_5_kort_plan": "1. Räkna dubbelbogeys per runda\n2. Spela konservativt vid risk\n3. Bogey är ett bra resultat – acceptera det",
+        "bild_6_kommentarsfråga": "Hur många dubbelbogeys gör du i snitt per runda? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 4,
+      "titel": "Par 5 – från mardröm till scoring-möjlighet",
+      "bilder": {
+        "bild_1_fragan": "Vilken håltyp skiljer noviser och experter mest åt?",
+        "bild_2_svaret": "Par 5. Gapet i scoring mot par är störst på par 5 och växer snabbt med stigande handicap.",
+        "bild_3_det_betyder": "För låg handicap är par 5 en birdie-chans. För hög handicap är det hålet med mest risker och störst skadepotential.",
+        "bild_4_du_tror_men_problemet": "Du tror att fler slag = lättare hål. Problemet: fler slag = fler chanser att göra katastrofmisstag på långa hål.",
+        "bild_5_kort_plan": "1. Spela par 5 i tre säkra slag\n2. Undvik vatten och bunkers till varje pris\n3. Bogey på par 5 är ett bra resultat",
+        "bild_6_kommentarsfråga": "Ser du par 5 som möjlighet eller fara? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 5,
+      "titel": "Fairway träffad = sänkt skaderisk",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket bättre scorar du på ett hål om du träffar fairway?",
+        "bild_2_svaret": "Fairway träffad: +0.68 vs par\nFairway missad: +1.05 vs par\nEn tredjedel av ett slag i skillnad – varje hål.",
+        "bild_3_det_betyder": "En bra drive handlar inte om att skapa birdie-chansen. Den handlar om att undvika bogey- och dubbelbogey-risken.",
+        "bild_4_du_tror_men_problemet": "Du tror att en bra drive skapar möjligheter. Problemet: en bra drive skyddar dig framför allt från skada.",
+        "bild_5_kort_plan": "1. Välj klubba som ger fairway, inte max yards\n2. Identifiera säkra sidor av varje hål\n3. Tre-wood > driver på smala hål",
+        "bild_6_kommentarsfråga": "Hur många fairways träffar du i snitt per runda? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 6,
+      "titel": "Missad fairway = dubbelt straff",
+      "bilder": {
+        "bild_1_fragan": "Vad händer egentligen om du missar fairway – utöver dålig lie?",
+        "bild_2_svaret": "Andra slagets avstånd är längre efter missad fairway – för alla handicap. Rough + avstånd = dubbelt straff.",
+        "bild_3_det_betyder": "Att missa fairway ger inte bara sämre lie. Du tvingas slå ett svårare slag på längre avstånd. Effekten är störst för hög handicap.",
+        "bild_4_du_tror_men_problemet": "Du tror att rough bara är lite jobbigare. Problemet: du tappar yards OCH får sämre lie – och det kostar slag varje gång.",
+        "bild_5_kort_plan": "1. Prioritera fairway framför distance off tee\n2. Välj konsekvent, inte maximal klubba\n3. Tänk på nästa slag, inte detta",
+        "bild_6_kommentarsfråga": "Väljer du driver eller tre-wood på smala hål? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 7,
+      "titel": "Konsistens slår distance varje gång",
+      "bilder": {
+        "bild_1_fragan": "Vad spelar mer roll – maximal drivingdistans eller konsistens?",
+        "bild_2_svaret": "Gapet inom en spelare (snitt vs välträffat) är större än gapet mellan handicapgrupper.",
+        "bild_3_det_betyder": "Ett välträffat slag hos en 15-hcp slår ofta snittet för en 10-hcp. Konsistens är allt.",
+        "bild_4_du_tror_men_problemet": "Du tror att du behöver slå längre. Problemet: du behöver träffa centret av klubban oftare.",
+        "bild_5_kort_plan": "1. Öva kontrollerat svingande\n2. Minska gapet mellan ditt snittslag och bästa slag\n3. Yardsjakt är meningslös",
+        "bild_6_kommentarsfråga": "Prioriterar du distance eller kontroll i ditt spel? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 8,
+      "titel": "Spridningen av drives är lika för alla",
+      "bilder": {
+        "bild_1_fragan": "Har bättre spelare mycket rakare drives?",
+        "bild_2_svaret": "Spridningen från fairwaymitt är remarkabelt lik över alla handicapgrupper. Alla missar.",
+        "bild_3_det_betyder": "Skillnaden är inte att bättre spelare alltid träffar fairway. Det är att de hanterar missarna bättre.",
+        "bild_4_du_tror_men_problemet": "Du tror att proffs aldrig missar fairway. Problemet: alla gör det – skillnaden är konsekvensen av missen.",
+        "bild_5_kort_plan": "1. Eliminera de stora missarna (OB, vatten)\n2. Välj en säker sida att missa åt\n3. Spela strategiskt från rough",
+        "bild_6_kommentarsfråga": "Vart missar du oftast – höger eller vänster? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 9,
+      "titel": "Avstånd slår lie – approachen handlar om distans",
+      "bilder": {
+        "bild_1_fragan": "Vad påverkar GIR mest – din lie eller avståndet in?",
+        "bild_2_svaret": "Distansen är den dominanta faktorn. GIR faller dramatiskt för alla spelare ju längre bort de är.",
+        "bild_3_det_betyder": "Ingen är immun mot långa approachslags svårighet. Kortare in = fler greener, oavsett handicap.",
+        "bild_4_du_tror_men_problemet": "Du tror att teknik är problemet från 180 yards. Problemet: 180 yards är svårt för alla – också 5-handicap.",
+        "bild_5_kort_plan": "1. Maximera fairwayträffar för kortare inslag\n2. Sikta inte på pinnen från långt håll\n3. Välj rätt green-zon att missa",
+        "bild_6_kommentarsfråga": "Från vilket avstånd är approachen din största svaghet? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 10,
+      "titel": "Fairwaybunkern är din värsta fiende",
+      "bilder": {
+        "bild_1_fragan": "Vilken lie straffar GIR mest vid approachen?",
+        "bild_2_svaret": "Fairwaybunkern ger den hårdaste GIR-straffet av alla lies – för varje handicap.",
+        "bild_3_det_betyder": "Att undvika fairwaybunkers är ett av de effektivaste sätten att spara slag på ett hål.",
+        "bild_4_du_tror_men_problemet": "Du tror att rough är det farliga. Problemet: fairwaybunkern kostar dig GIR mer än rough gör.",
+        "bild_5_kort_plan": "1. Identifiera fairwaybunkers på varje hål\n2. Välj klubba som undviker dem\n3. Acceptera kortare driv för position",
+        "bild_6_kommentarsfråga": "Hamnar du ofta i fairwaybunkers? Vilken bana är värst? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 11,
+      "titel": "Scratch-golfare är 40 fot nära från 150 yards",
+      "bilder": {
+        "bild_1_fragan": "Hur nära är en scratch-golfare i snitt från 150 yards?",
+        "bild_2_svaret": "~40 fot. En 25-handicap är ~70 fot. Det är dubbelt så långt.",
+        "bild_3_det_betyder": "Bättre spelare missar greenen mer hanterbart. De är fortfarande i bra position för upp och ned.",
+        "bild_4_du_tror_men_problemet": "Du tror att proffs alltid träffar greenen från 150. Problemet: de missar också – men kortare och bättre.",
+        "bild_5_kort_plan": "1. Sikta på center av greenen, inte pinnen\n2. En bra miss är 30 fot bort, inte i bunkern\n3. Proximity, inte perfekthet",
+        "bild_6_kommentarsfråga": "Siktar du alltid på pinnen eller spelar du säkrare? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 12,
+      "titel": "Du slår alltid för kort med wedgen",
+      "bilder": {
+        "bild_1_fragan": "Vilken riktning missar golfare mest med wedge från 100 yards?",
+        "bild_2_svaret": "40% av alla wedgemissar är korta. Samma mönster på alla handicap.",
+        "bild_3_det_betyder": "Alla – även låga handicap – under-klubbar med wedge eller felar sin carry-bedömning konsekvent.",
+        "bild_4_du_tror_men_problemet": "Du tror att du tar rätt klubba. Problemet: du underskattar bärningen på delvisa wedgeslag systematiskt.",
+        "bild_5_kort_plan": "1. Ta en klubba mer än du tror\n2. Öva carry-distanser på range\n3. Använd ett Shot Scope eller GPS-enhet",
+        "bild_6_kommentarsfråga": "Missar du oftast kort, lång, vänster eller höger med wedge? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 13,
+      "titel": "Missad green = mer skada än du tror",
+      "bilder": {
+        "bild_1_fragan": "Om du missar greenen, hur sannolikt är det att du räddar bollen med ett slag?",
+        "bild_2_svaret": "Från 50 yards tar alla spelare i snitt 3+ slag till hål. Scratch ingår.",
+        "bild_3_det_betyder": "En missad green är sällan bara en chips och en putt. Det är tre slag och ofta ett dubbelbogey-hot.",
+        "bild_4_du_tror_men_problemet": "Du tror att du kan rädda hål från rough. Problemet: statistiken visar att missade greener regelmässigt leder till tappade slag.",
+        "bild_5_kort_plan": "1. Prioritera att träffa greener framför att nå pinnen\n2. Anta att missad green = tappat slag\n3. Bygg strategi kring GIR",
+        "bild_6_kommentarsfråga": "Hur många greener träffar du i snitt per runda? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 14,
+      "titel": "Upp och ned – varje meter spelar roll",
+      "bilder": {
+        "bild_1_fragan": "Vad är den viktigaste faktorn för att lyckas med upp och ned?",
+        "bild_2_svaret": "Distans. Chansen att rädda sjunker dramatiskt för varje extra meter från flaggan.",
+        "bild_3_det_betyder": "Chipsen avgör upp och ned – inte puttingen. Hur nära du chippar är allt.",
+        "bild_4_du_tror_men_problemet": "Du tror att misslyckad upp och ned beror på att du missar puttsen. Problemet: chipsen lämnade dig för långt bort.",
+        "bild_5_kort_plan": "1. Fokusera på proximity vid chipsning\n2. Sikta på att komma under 8 fot\n3. Välj klubba efter träffsäkerhet, inte höjd",
+        "bild_6_kommentarsfråga": "Hur stor andel upp och ned lyckas du med i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 15,
+      "titel": "Puttern är din bästa chipsklubb",
+      "bilder": {
+        "bild_1_fragan": "Vilken klubba ger bäst resultat för upp och ned kring greenen?",
+        "bild_2_svaret": "Puttern ger högst save-rate av alla klubbor – när lie och förhållanden tillåter det.",
+        "bild_3_det_betyder": "Amatörer tar lob-wedge av vana, men puttern är matematiskt överlägsen i de flesta lägen utanför greenen.",
+        "bild_4_du_tror_men_problemet": "Du tror att lobben ser proffsig ut. Problemet: puttern ger faktiskt bättre odds – men du väljer vana framför statistik.",
+        "bild_5_kort_plan": "1. Testa puttern från fringe och nära rough\n2. Spara lobbarna för när du MÅSTE lyfta\n3. Välj utifrån sannolikhet, inte känsla",
+        "bild_6_kommentarsfråga": "Har du provat puttern utanför greenen? Vad händer? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 16,
+      "titel": "Amatörernas chips landar aldrig nära nog",
+      "bilder": {
+        "bild_1_fragan": "Hur nära pinnen chippar en amatör i snitt från 30 yards?",
+        "bild_2_svaret": "De flesta lämnar sig utanför realistisk ett-putt-räckvidd. Chips avgörs innan puttern används.",
+        "bild_3_det_betyder": "Misslyckad upp och ned är ofta bestämd vid chipsen, inte puttsen. Puttern kan inte rädda en dålig chips.",
+        "bild_4_du_tror_men_problemet": "Du tror att dina missar beror på puttingen. Problemet: chipsen landar för långt bort – och en lång putt är svår för alla.",
+        "bild_5_kort_plan": "1. Sätt proximity-mål: under 8 fot från 30 yards\n2. Öva på att styra landningspunkt\n3. Spela mer loft om du konsekvent missar längd",
+        "bild_6_kommentarsfråga": "Hur lång är din första putt efter chipsen i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 17,
+      "titel": "Par 5 avslöjar dig mer än något annat hål",
+      "bilder": {
+        "bild_1_fragan": "Vilken håltyp skapar störst skillnad mellan bra och sämre spelare?",
+        "bild_2_svaret": "Par 5. Gapet i scoring jämfört mot par är störst på par 5 – och växer snabbt med stigande handicap.",
+        "bild_3_det_betyder": "Par 5 är en möjlighet för låga handicap men ett minerat fält för höga handicap. Längd + strategi avgör.",
+        "bild_4_du_tror_men_problemet": "Du tror att par 5 är 'lättare' för att du har fler slag. Problemet: fler slag = fler chanser att göra stora misstag.",
+        "bild_5_kort_plan": "1. Spela par 5 konservativt i 2 slag till bra position\n2. Undvik vatten och bunkers till varje pris\n3. Bogey är ett bra mål för höga handicap",
+        "bild_6_kommentarsfråga": "Har du någonsin gjort birdie på ett par 5? På vilken bana? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 18,
+      "titel": "Att missa fairway kostar dig fler yards än du vet",
+      "bilder": {
+        "bild_1_fragan": "Hur påverkar en missad fairway din nästa approachslags distans?",
+        "bild_2_svaret": "Missad fairway = längre nästa slag. En 25-hcp: 158 yards från fairway, 175 yards från rough.",
+        "bild_3_det_betyder": "En missad fairway adderar inte bara en dålig lie – den ger också ett svårare approachslags avstånd.",
+        "bild_4_du_tror_men_problemet": "Du tror att rough mest är jobbigare att slå från. Problemet: du måste slå längre OCH ur rough – dubbelt straff.",
+        "bild_5_kort_plan": "1. Välj klubba för fairway, inte max-distance\n2. Tre-wood eller hybrid istället för driver\n3. Position > yards off tee",
+        "bild_6_kommentarsfråga": "Tar du hellre tre-wood eller driver på tight hål? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 19,
+      "titel": "Under 80 – varför det är så svårt",
+      "bilder": {
+        "bild_1_fragan": "Hur stor andel av amatörer lyckas bryta 80?",
+        "bild_2_svaret": "31% – bara var tredje Shot Scope-användare slog under 80 under 2025.",
+        "bild_3_det_betyder": "Att bryta 80 är ett genuint sällsynt prestationssprång, inte en självklarhet för 'nästan bra' spelare.",
+        "bild_4_du_tror_men_problemet": "Du tror att du är nära att gå under 80. Problemet: de sista slagen är de svåraste – och kräver mer än bra dagar.",
+        "bild_5_kort_plan": "1. Fokusera på att minska dubbelbogeys\n2. Ett bogey-snitt är vägen dit\n3. Konsistens > enstaka bra hål",
+        "bild_6_kommentarsfråga": "Har du brutit 80? Vad var hemligheten? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 20,
+      "titel": "Birdie spelar ingen roll – bogey spelar all roll",
+      "bilder": {
+        "bild_1_fragan": "Vad skiljer en 5-handicap från en 20-handicap egentligen?",
+        "bild_2_svaret": "Birdies är sällsynta på alla nivåer. Skillnaden: frekvensen av dubbelbogeys och värre.",
+        "bild_3_det_betyder": "Bättre spelare gör inte fler birdies. De gör bara färre stora misstag. Skadestopp är nyckeln.",
+        "bild_4_du_tror_men_problemet": "Du tror att du behöver göra fler birdies för att sänka din handicap. Problemet: sluta göra treor och fyror på par 4 – det är skillnaden.",
+        "bild_5_kort_plan": "1. Räkna dubbelbogeys efter varje runda\n2. Sätt mål: max 2 per runda\n3. Aggressiv på par, konservativ vid skada",
+        "bild_6_kommentarsfråga": "Hur många dubbelbogeys gör du i snitt per runda? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 21,
+      "titel": "Driverlängd = inte största problemet",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket tror du snittdriven har förändrats på 8 år?",
+        "bild_2_svaret": "Mindre än du tror ↓",
+        "bild_3_det_betyder": "De flesta har inte plötsligt börjat slå mycket längre. Jakten på längd är ofta större än den faktiska förändringen.",
+        "bild_4_du_tror_men_problemet": "Du tror att alla andra blir längre. Problemet: Du jämför ofta din vanliga drive med någon annans bästa drive..",
+        "bild_5_kort_plan": "1. Mät din riktiga snittdrive\n2. Sluta räkna bästa träffen\n3. Bygg strategi efter din normala längd",
+        "bild_6_kommentarsfråga": "Hur långt slår du din normala drive – inte din bästa? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 22,
+      "titel": "30+ hcp har nästan varannan driver i problem",
+      "bilder": {
+        "bild_1_fragan": "Hur många drives tror du leder till straff eller recovery för 30+ hcp?",
+        "bild_2_svaret": "Nästan varannan ↓",
+        "bild_3_det_betyder": "Det handlar inte bara om att missa fairway. Nästan varannan driver riskerar att skapa ett nytt problem.",
+        "bild_4_du_tror_men_problemet": "Du tror att problemet är att du inte slår långt nog. Problemet: För många drives går inte att spela vidare normalt från..",
+        "bild_5_kort_plan": "1. Slå inte driver på alla hål\n2. Välj klubba efter straffrisk\n3. Sikta bort från din farliga miss",
+        "bild_6_kommentarsfråga": "Hur ofta sätter din driver dig i trubbel? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 23,
+      "titel": "Skillnaden är inte bara precision",
+      "bilder": {
+        "bild_1_fragan": "Vad tror du skiljer mest från tee: längd eller fairwayträff?",
+        "bild_2_svaret": "Svaret är brutalt ↓",
+        "bild_3_det_betyder": "Accuracy är inte hela förklaringen. Den stora skillnaden ligger i längd och att undvika riktigt dåliga lägen.",
+        "bild_4_du_tror_men_problemet": "Du tror att bra spelare bara slår rakare. Problemet: De slår längre och hamnar mer sällan i katastrof..",
+        "bild_5_kort_plan": "1. Jaga spelbar längd, inte maxlängd\n2. Ta bort straffslagen först\n3. Mät hur ofta driven faktiskt är spelbar",
+        "bild_6_kommentarsfråga": "Är ditt största problem från tee längd eller trubbel? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 24,
+      "titel": "Äldre golfare träffar fler fairways",
+      "bilder": {
+        "bild_1_fragan": "Vilka tror du träffar flest fairways: 20-åringar eller 70-åringar?",
+        "bild_2_svaret": "Inte de du tror ↓",
+        "bild_3_det_betyder": "Mer längd betyder inte automatiskt bättre tee-spel. Kontroll kan väga tyngre än fart.",
+        "bild_4_du_tror_men_problemet": "Du tror att fart är allt. Problemet: Fart utan kontroll skapar ofta dyrare missar..",
+        "bild_5_kort_plan": "1. Välj mål innan klubba\n2. Slå inte hårdare än du kan kontrollera\n3. Spela för nästa slag, inte längsta slaget",
+        "bild_6_kommentarsfråga": "Slår du oftast för långt – eller för säkert? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 25,
+      "titel": "Ålder kostar längd",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är längdskillnaden mellan yngsta och äldsta herrgolfarna?",
+        "bild_2_svaret": "Den är större än du tror ↓",
+        "bild_3_det_betyder": "Ålder påverkar längd mer än många vill erkänna. Strategin måste följa din faktiska längd idag.",
+        "bild_4_du_tror_men_problemet": "Du tror att du ska slå som du gjorde förr. Problemet: Din strategi kanske fortfarande bygger på en gammal längd..",
+        "bild_5_kort_plan": "1. Uppdatera dina verkliga carry-avstånd\n2. Sluta spela efter gamla minnen\n3. Välj tee och strategi efter dagens längd",
+        "bild_6_kommentarsfråga": "Slår du lika långt nu som för 5 år sedan? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 26,
+      "titel": "Mindre längd kan ge mer kontroll",
+      "bilder": {
+        "bild_1_fragan": "Vad händer när riktigt bra spelare blir äldre från tee?",
+        "bild_2_svaret": "De tappar – men vinner ↓",
+        "bild_3_det_betyder": "Bra golf kan överleva kortare drives om bollen oftare är i spel.",
+        "bild_4_du_tror_men_problemet": "Du tror att kortare alltid betyder sämre. Problemet: Okontrollerad längd kostar ofta mer än den ger..",
+        "bild_5_kort_plan": "1. Prioritera spelbar miss\n2. Acceptera mindre längd på svåra hål\n3. Bygg tee-strategi runt fairway och vinkel",
+        "bild_6_kommentarsfråga": "Hade du bytt 20 meter längd mot fler fairways? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 27,
+      "titel": "20-åringar är längst – men minst träffsäkra",
+      "bilder": {
+        "bild_1_fragan": "Vilken ålder tror du slår längst men träffar minst fairways?",
+        "bild_2_svaret": "Längd har ett pris ↓",
+        "bild_3_det_betyder": "Det längsta spelet är inte alltid det smartaste spelet. Extra fart kommer ofta med större spridning.",
+        "bild_4_du_tror_men_problemet": "Du tror att längd är gratis. Problemet: Extra fart kommer ofta med dyrare missar..",
+        "bild_5_kort_plan": "1. Slå maxdrive bara på breda hål\n2. Välj 3-wood eller hybrid på smala hål\n3. Ha en säker tee-klubba",
+        "bild_6_kommentarsfråga": "Har du en säker klubba från tee? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 28,
+      "titel": "0–5 hcp slår inte bara lite längre",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket längre tror du låg-hcp slår än 30+ hcp?",
+        "bild_2_svaret": "Mer än du tror ↓",
+        "bild_3_det_betyder": "Längd hjälper – men bara om den inte kommer med straff och recovery.",
+        "bild_4_du_tror_men_problemet": "Du tror att längd inte spelar roll. Problemet: Kortare drives ger oftare längre och svårare inspel..",
+        "bild_5_kort_plan": "1. Träna bollträff före fart\n2. Hitta mer längd utan större miss\n3. Spela efter ditt vanligaste inspel",
+        "bild_6_kommentarsfråga": "Hur mycket längre tror du att du behöver slå för att sänka dig? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 29,
+      "titel": "Fairwayträff skiljer mindre än folk tror",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket mer fairway träffar låg-hcp jämfört med 30+ hcp?",
+        "bild_2_svaret": "Inte så mycket ↓",
+        "bild_3_det_betyder": "Skillnaden är inte att bättre spelare alltid ligger mitt i fairway. Skillnaden är ofta hur dyr missen blir.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste slå rakt hela tiden. Problemet: Du måste göra dina missar mindre farliga..",
+        "bild_5_kort_plan": "1. Identifiera din stora miss\n2. Sikta så den missen fortfarande är spelbar\n3. Sluta kräva perfekt drive",
+        "bild_6_kommentarsfråga": "Vad är din vanligaste miss från tee? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 30,
+      "titel": "Katastrofdrives slår längdjakt",
+      "bilder": {
+        "bild_1_fragan": "Vad är viktigast: längre drive eller färre katastrofdrives?",
+        "bild_2_svaret": "Svaret syns i scoren ↓",
+        "bild_3_det_betyder": "Det är inte bara var bollen landar. Det är om nästa slag ens går att spela normalt.",
+        "bild_4_du_tror_men_problemet": "Du tror att en längre drive räddar dig. Problemet: En ospelbar drive dödar hålet direkt..",
+        "bild_5_kort_plan": "1. Räkna penalty/recovery per rond\n2. Byt strategi på hål där du ofta tappar boll\n3. Välj klubba som håller dubbelbogey borta",
+        "bild_6_kommentarsfråga": "Hur många straffslag tar du från tee per rond? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 31,
+      "titel": "Även 10-hcp får driverproblem",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta tror du en 10–15 hcp hamnar i straff eller recovery med driver?",
+        "bild_2_svaret": "Oftare än du tror ↓",
+        "bild_3_det_betyder": "Även ganska bra amatörer får driverutslag i problem-läge. Risk från tee försvinner inte bara för att handicapet sjunker.",
+        "bild_4_du_tror_men_problemet": "Du tror att driverproblem bara är för höghandicapare. Problemet: Även bra spelare måste hantera risk från tee..",
+        "bild_5_kort_plan": "1. Markera riskhål före rundan\n2. Välj bort driver på 2–3 hål\n3. Spela för bogey som sämsta rimliga score",
+        "bild_6_kommentarsfråga": "Vilket hål på din hemmabana borde du inte slå driver på? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 32,
+      "titel": "15–20 hcp får över var fjärde driver i trubbel",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta tror du en 15–20 hcp får driverproblem?",
+        "bild_2_svaret": "Nästan var tredje ↓",
+        "bild_3_det_betyder": "Nästan var tredje driver riskerar att göra hålet svårt direkt.",
+        "bild_4_du_tror_men_problemet": "Du tror att du bara behöver slå bättre drives. Problemet: Du kanske slår driver på fel hål..",
+        "bild_5_kort_plan": "1. Välj 3 säkra tee-hål\n2. Välj 3 hål där driver förbjuds\n3. Se om scoren blir stabilare",
+        "bild_6_kommentarsfråga": "Hur många gånger per rond borde du låta drivern vila? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 33,
+      "titel": "25–30 hcp: driver är ofta ett lotteri",
+      "bilder": {
+        "bild_1_fragan": "Hur många driverutslag tror du blir problem för 25–30 hcp?",
+        "bild_2_svaret": "För många ↓",
+        "bild_3_det_betyder": "För många blir drivern inte ett vapen. Den blir en riskmaskin.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste använda driver för att nå fram. Problemet: Du förlorar ofta hålet redan från tee..",
+        "bild_5_kort_plan": "1. Spela 9 hål utan driver\n2. Jämför antal straffslag\n3. Använd driver bara på breda hål",
+        "bild_6_kommentarsfråga": "Skulle du våga spela en rond utan driver? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 34,
+      "titel": "Höjd gör större skillnad än du tror",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket längre tror du en drive går på hög höjd?",
+        "bild_2_svaret": "Nästan en klubba ↓",
+        "bild_3_det_betyder": "Alla “jag slog 240” betyder inte samma sak. Plats och förhållanden spelar roll.",
+        "bild_4_du_tror_men_problemet": "Du tror att längd alltid går att jämföra rakt av. Problemet: Miljön kan ge gratis meter..",
+        "bild_5_kort_plan": "1. Jämför inte drives från olika banor blint\n2. Mät din längd hemma\n3. Använd klubbdata från dina egna förhållanden",
+        "bild_6_kommentarsfråga": "Har du slagit längre på utlandsresa än hemma? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 35,
+      "titel": "Låg-hcp damer slår mycket längre",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är längdskillnaden mellan låg-hcp och 30+ hcp bland kvinnor?",
+        "bild_2_svaret": "Enorm ↓",
+        "bild_3_det_betyder": "Längdskillnaden mellan nivåer kan vara enorm. Kortare drives ger helt andra inspel.",
+        "bild_4_du_tror_men_problemet": "Du tror att skillnaden bara sitter i precision. Problemet: Kortare drives förändrar hela hålet..",
+        "bild_5_kort_plan": "1. Träna bollträff före teknikdetaljer\n2. Bygg fart stegvis\n3. Välj tee efter verklig carry",
+        "bild_6_kommentarsfråga": "Vad stoppar dig mest från tee: längd eller riktning? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 36,
+      "titel": "Kvinnliga spelare blir träffsäkrare med ålder",
+      "bilder": {
+        "bild_1_fragan": "Vilka träffar flest fairways: kvinnor i 20-årsåldern eller 60-årsåldern?",
+        "bild_2_svaret": "Kontroll vinner ↓",
+        "bild_3_det_betyder": "Kontroll ökar ofta när längden går ner. Längre är inte automatiskt bättre.",
+        "bild_4_du_tror_men_problemet": "Du tror att längre alltid är bättre. Problemet: Längd utan kontroll skapar ofta nästa misstag..",
+        "bild_5_kort_plan": "1. Bygg en trygg tee-klubba\n2. Träna startlinje\n3. Prioritera fairway på smala hål",
+        "bild_6_kommentarsfråga": "Skulle du hellre slå kortare men träffa fler fairways? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 37,
+      "titel": "Fairwayträff förklarar inte allt",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket skiljer fairwayträff mellan låg och högre hcp bland kvinnor?",
+        "bild_2_svaret": "Nästan inget ↓",
+        "bild_3_det_betyder": "Fairwayträff ensam förklarar inte nivån. Det kan lika gärna vara längd, nästa slag eller recovery.",
+        "bild_4_du_tror_men_problemet": "Du tror att rakare från tee löser allt. Problemet: Du måste också mäta vad som händer efter tee-slaget..",
+        "bild_5_kort_plan": "1. Mät inte bara fairways\n2. Mät avstånd kvar till green\n3. Mät hur ofta du har fritt slag två",
+        "bild_6_kommentarsfråga": "Vad mäter du efter rundan – fairways eller score? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 38,
+      "titel": "Snittdriven för män är inte 260",
+      "bilder": {
+        "bild_1_fragan": "Hur långt tror du den genomsnittliga herrdriven är?",
+        "bild_2_svaret": "Inte 260 ↓",
+        "bild_3_det_betyder": "Många överskattar normal längd eftersom de minns sina bästa träffar.",
+        "bild_4_du_tror_men_problemet": "Du tror att alla andra slår 250+. Problemet: Golfare pratar ofta om max, inte snitt..",
+        "bild_5_kort_plan": "1. Räkna bara drives som är i spel\n2. Använd snitt, inte längsta slag\n3. Spela efter verkligheten",
+        "bild_6_kommentarsfråga": "Vad är din snittdrive om du är helt ärlig? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 39,
+      "titel": "Snittdriven för kvinnor är lägre än många tror",
+      "bilder": {
+        "bild_1_fragan": "Hur långt tror du den genomsnittliga damdriven är?",
+        "bild_2_svaret": "Många gissar fel ↓",
+        "bild_3_det_betyder": "Det är lätt att jämföra sig med fel nivå och tro att man ligger längre efter än man gör.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste slå extremt långt. Problemet: Du behöver bättre strategi efter din faktiska längd..",
+        "bild_5_kort_plan": "1. Välj tee efter inspelsavstånd\n2. Bygg favoritavstånd in mot green\n3. Sluta jämföra dig med maxslag",
+        "bild_6_kommentarsfråga": "Spelar du från tee som passar din längd? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 40,
+      "titel": "Bra spelare undviker inte alla missar",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta tror du låg-hcp får driverutslag i straff eller recovery?",
+        "bild_2_svaret": "Inte noll ↓",
+        "bild_3_det_betyder": "Även bra spelare hamnar i problem. Men inte på nästan varannan drive.",
+        "bild_4_du_tror_men_problemet": "Du tror att bra golf betyder perfekta drives. Problemet: Bra golf betyder färre katastrofdrives..",
+        "bild_5_kort_plan": "1. Acceptera små missar\n2. Ta bort OB och hazard från spel\n3. Välj klubb efter sämsta möjliga utfall",
+        "bild_6_kommentarsfråga": "Hur många katastrofdrives har du en vanlig rond? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 41,
+      "titel": "Varannan driver i problem – för 30+ hcp",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta slutar en drive med straff eller ospelbar boll för en 30+ handicap?",
+        "bild_2_svaret": "45% av alla drives hos 30+ hcp leder till straff eller recovery-slag. Nästan varannan gång.",
+        "bild_3_det_betyder": "Det betyder att för varje två hål en hög handicap slår driver, är ett av dem sannolikt redan skadat från tee-boxen. Hålet är tappat innan iron ens kommer fram.",
+        "bild_4_du_tror_men_problemet": "Du tror att problemet är att du inte slår tillräckligt långt. Problemet: du förlorar hålen redan vid tee-boxen – inte vid greenen.",
+        "bild_5_kort_plan": "1. Välj bort driver på de tre svåraste hålen per runda\n2. Mät hur många drives som faktiskt är spelbara\n3. Acceptera kortare men säkrare tee-slag",
+        "bild_6_kommentarsfråga": "Hur många gånger per runda hamnar du i verklig trubbel med driver? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 42,
+      "titel": "Scratch har också driverproblem – 12%",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta hamnar även scratch-spelare i straff eller recovery med driver?",
+        "bild_2_svaret": "12% av scratch-spelares drives leder till straff eller recovery. Mot 45% för 30+ hcp.",
+        "bild_3_det_betyder": "Skillnaden är inte att bra spelare aldrig gör driverproblem – de gör det också. Skillnaden är att de gör det tre till fyra gånger mer sällan. Det är räckvidden av katastrofen som separerar nivåerna.",
+        "bild_4_du_tror_men_problemet": "Du tror att bra spelare alltid slår driver perfekt. Problemet: de hamnar i trubbel de också – bara mycket mer sällan och de hanterar det bättre.",
+        "bild_5_kort_plan": "1. Minska din wayward-rate – inte öka din distans\n2. Varje procent färre katastrofdrives spar slag\n3. Spela smarta hål istället för maximala hål",
+        "bild_6_kommentarsfråga": "Vilken är din värsta drivermiss – för vänster, höger, eller OB rakt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 43,
+      "titel": "10–15 hcp: var fjärde driver i problem",
+      "bilder": {
+        "bild_1_fragan": "Hur ofta hamnar en 10–15 handicap i straff eller recovery med driver?",
+        "bild_2_svaret": "22–28% av alla drives hos 10–15 hcp resulterar i straff eller recovery. Nästan var fjärde slag.",
+        "bild_3_det_betyder": "Även relativt bra spelare skadar hålen från tee-boxen oftare än de tror. Det är inte bara ett problem för höga handicap – driverproblem finns på alla nivåer.",
+        "bild_4_du_tror_men_problemet": "Du tror att ditt driverproblem försvinner när du tränar mer på range. Problemet: problemet är strategin på banan – inte tekniken på rangen.",
+        "bild_5_kort_plan": "1. Identifiera vilka hål du konsekvent får problem på\n2. Välj tre-wood eller lång järn på dessa hål\n3. Bokför wayward drives under tre rundor",
+        "bild_6_kommentarsfråga": "Vilket hål på din hemmabana ger dig mest driverproblem? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 44,
+      "titel": "Par 3 – svårt för alla, alltid",
+      "bilder": {
+        "bild_1_fragan": "Förbättras scoring på par 3-hål när handicapen sjunker?",
+        "bild_2_svaret": "Par 3-svårigheten är remarkabelt konstant tvärs alla handicapgrupper. Det är den håltyp som förändras minst med stigande skicklighet.",
+        "bild_3_det_betyder": "Par 3 är mer rättvis än du tror. Skillnaden mellan en 5-handicap och en 20-handicap på par 3 är mycket mindre än på par 4 och par 5. Alla kämpar.",
+        "bild_4_du_tror_men_problemet": "Du tror att din par 3-svaghet är unik för dig. Problemet: alla sämre amatörer kämpar med par 3 – det är en universell utmaning, inte din personliga brist.",
+        "bild_5_kort_plan": "1. Sikta alltid på center av greenen – inte pinnen – på par 3\n2. Välj klubba för mitten, inte för att nå\n3. Bogey är ett bra mål på svåra par 3",
+        "bild_6_kommentarsfråga": "Vad är ditt snittresultat på par 3? Bättre eller sämre än du tror? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 45,
+      "titel": "Hög handicap approacherar från 154 meter",
+      "bilder": {
+        "bild_1_fragan": "Från hur långt håll approacherar en 25 handicap i snitt mot greenen?",
+        "bild_2_svaret": "154 meter. En scratch-spelare approacherar från 135 meter. Det är 19 meters skillnad – och det förändrar allt.",
+        "bild_3_det_betyder": "Hög handicap sitter inte bara med sämre teknik. De möter regelmässigt svårare approacher, från längre håll. Problemet börjar vid tee-boxen, inte vid greenen.",
+        "bild_4_du_tror_men_problemet": "Du tror att din dåliga GIR beror på ditt järnspel. Problemet: du approacherar konsekvent från 20 meter längre håll än bättre spelare – det är avståndets fel, inte ditt.",
+        "bild_5_kort_plan": "1. Fokusera på att korta ned ditt inspels-avstånd med bättre tee-spel\n2. Varje meter kortare in mot flaggan ger bättre GIR-chans\n3. Bogey från 154 meter är ett rimligt mål",
+        "bild_6_kommentarsfråga": "Från vilket avstånd approacherar du oftast mot green? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 46,
+      "titel": "GIR kollapsar med avstånd – för alla",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket sjunker chansen att träffa green ju längre bort du är?",
+        "bild_2_svaret": "GIR-procenten faller dramatiskt för varje extra meter. Inte ens de bästa spelarna är immuna mot längre approacher.",
+        "bild_3_det_betyder": "Det handlar inte om att du slår dåliga järnslag. Det handlar om att längre approacher är svårare för alla. Även låghandicap förlorar GIR snabbt när avståndet ökar.",
+        "bild_4_du_tror_men_problemet": "Du tror att du missar greener för att du är dålig på järn. Problemet: du missar för att du approacherar från för långt håll – och det börjar vid tee-boxen.",
+        "bild_5_kort_plan": "1. Minska approachavståndet – det är det viktigaste målet\n2. Träffa fler fairways för kortare andra slag\n3. Sikta på safe zones istället för pinnen från 175+",
+        "bild_6_kommentarsfråga": "Hur många greener träffar du i snitt per runda nu? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 47,
+      "titel": "Kort-miss med wedge: 40% av alla missar",
+      "bilder": {
+        "bild_1_fragan": "Åt vilket håll missar golfare oftast med wedge från 100 meter?",
+        "bild_2_svaret": "Kort. Ungefär 40% av alla wedgemissar är korta – oavsett handicap. Alla under-klubbar med wedge.",
+        "bild_3_det_betyder": "Det är inte ett enkelt-problem. Alla spelare på alla nivåer underskattar sin carry-distans med delvisa wedgeslag. Låghandicap gör det, du gör det.",
+        "bild_4_du_tror_men_problemet": "Du tror att du väljer rätt wedge. Problemet: statistiken visar att du systematiskt underskattar bärningen – och landar kort, varje gång.",
+        "bild_5_kort_plan": "1. Ta alltid en klubba mer än du tror på delvisa wedgeslag\n2. Lär dig din exakta carry-distans för varje wedge\n3. Sikta ett steg djupare in på greenen",
+        "bild_6_kommentarsfråga": "Vet du exakt hur långt du bär din pitching wedge? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 48,
+      "titel": "Upp och ned: chipsen avgör – inte puttsen",
+      "bilder": {
+        "bild_1_fragan": "Vad är den viktigaste faktorn för att lyckas med upp och ned från kring greenen?",
+        "bild_2_svaret": "Distansen till pinnen efter chips. Upp och ned-chansen faller kraftigt för varje extra meter – long putts gör den nästan omöjlig.",
+        "bild_3_det_betyder": "Misslyckad upp och ned avgörs vanligtvis vid chipsen – inte puttsen. Om du lämnar dig 8+ meter bort är save-chansen statistiskt liten, oavsett din putting.",
+        "bild_4_du_tror_men_problemet": "Du tror att du misslyckas med upp och ned för att du putar dåligt. Problemet: du chippar dig för långt bort – och ingen putt är enkel på 8 meter.",
+        "bild_5_kort_plan": "1. Sätt ditt mål för chips till under 2 meter\n2. Välj klubba efter precision, inte höjd\n3. Acceptera bogey om chips är omöjlig – rädda parscoren inte dubbeln",
+        "bild_6_kommentarsfråga": "Hur lång är din genomsnittliga första putt efter chips? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 49,
+      "titel": "Rough halverar din upp-och-ned-chans",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är skillnaden i upp-och-ned-succé beroende på om du chippar från fairway eller rough?",
+        "bild_2_svaret": "Fairway-lie ger dramatiskt högre save-rate än rough eller bunker – för alla handicap. Lien är en multiplikator av svårigheten.",
+        "bild_3_det_betyder": "Var du missar greenen spelar stor roll – inte bara att du missar den. Att missa på rätt sida, på kortare gräs, kan halvera kostnaden av misstaget.",
+        "bild_4_du_tror_men_problemet": "Du tror att du förlorar upp och ned för att din chipping-teknik är dålig. Problemet: du missar greenen på fel sida och lämnar dig i rough – och det beslutet fattas redan vid approach-slaget.",
+        "bild_5_kort_plan": "1. Planera din miss-zon vid varje approach\n2. Välj att missa mot kortgräs, inte mot bunker\n3. Vit till vänster om rough är till höger",
+        "bild_6_kommentarsfråga": "Väljer du medvetet vilken sida du missar greenen på? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 50,
+      "titel": "Amatören väljer lob-wedge av vana – inte av strategi",
+      "bilder": {
+        "bild_1_fragan": "Vilken klubba väljer de flesta amatörer för chipping kring greenen?",
+        "bild_2_svaret": "Lob-wedge och sand-wedge dominerar – oavsett handicap och situation. Puttern, som statistiskt sett ger bäst resultat, väljs sällan.",
+        "bild_3_det_betyder": "De flesta väljer lob-wedge av vana, inte av sannolikhet. Puttern är det statistically överlägna valet när lie och situation tillåter det – men amatörer väljer det sällan.",
+        "bild_4_du_tror_men_problemet": "Du tror att lob-wedgen kring green ser proffsigt ut. Problemet: du väljer utifrån känsla och vana – inte utifrån vilken klubba som faktiskt ger bäst odds.",
+        "bild_5_kort_plan": "1. Fråga alltid: kan jag putta istället för att chippa?\n2. Spara lob-wedgen för när du MÅSTE lyfta bollen\n3. Testa puttern från fringe och nära rough nästa gång",
+        "bild_6_kommentarsfråga": "Hur ofta använder du puttern utanför greenen? Fungerar det? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 51,
+      "titel": "Puttarens save rate faller med handicap",
+      "bilder": {
+        "bild_1_fragan": "Hur stor andel av upp och ned lyckas med puttern för olika handicap-grupper?",
+        "bild_2_svaret": "Scratch: 67% save-rate med putter. 5 hcp: 64%. 15 hcp: 59%. 25 hcp: 53%.",
+        "bild_3_det_betyder": "Puttern ger konsekvent hög save-rate på alla nivåer. Även en 25-handicap lyckas mer än hälften av gångerna med puttern från kring greenen. Det är bättre än de flesta lob-wedge-odds.",
+        "bild_4_du_tror_men_problemet": "Du tror att puttern bara fungerar om du är duktig. Problemet: även hög-handicap lyckas med puttern i mer än hälften av fallen – välj den oftare.",
+        "bild_5_kort_plan": "1. Testa puttern varje gång du är inom 5 meter utanför greenen\n2. Jämför din save-rate med lob vs putter under tre rundor\n3. Välj statistiken, inte känslan",
+        "bild_6_kommentarsfråga": "Hade du vågat puttat från utanför greenen i en viktig tävling? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 52,
+      "titel": "Make-rate faller 40% från kort till mellanlång putt",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är skillnaden i make-rate mellan en 1–2 meters putt och en 4–6 meters putt?",
+        "bild_2_svaret": "Make-raten faller med mer än 40 procentenheter för en 15-handicap från korta (3–6 fot) till medellånga (12–18 fot) puttar. Distansen dödar chansen.",
+        "bild_3_det_betyder": "Den viktigaste puttingen-insikten är denna: om du lämnar dig 4+ meter är puttsen nästan bortslösat. Fokus bör vara på proximity vid chipsen, inte på att försöka sjunka långa puttar.",
+        "bild_4_du_tror_men_problemet": "Du tror att bättre putting skulle rädda dig. Problemet: du lämnar dig 5-6 meter bort med chipsen, och inte ens scratch-spelare sjunker den puttsen konsekvent.",
+        "bild_5_kort_plan": "1. Mål: alla puttar under 2 meter efter chips\n2. Öva 1-2 meter-puttar, inte 5-6 meter-puttar\n3. Prioritera proximity framför putting-teknik",
+        "bild_6_kommentarsfråga": "Hur lång är din längsta putt du faktiskt förväntar dig att sjunka? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 53,
+      "titel": "Herrsnittet har inte ökat på 8 år",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket har genomsnittlig driving-distans för herrar förändrats sedan 2018?",
+        "bild_2_svaret": "Mindre än en yard. Snittet har legat stilla kring 224 meter under åtta år av mätningar.",
+        "bild_3_det_betyder": "Utrustningsutveckling, träningsfokus och ny teknik har inte gett amatörer mätbart längre drives under åtta år. Den populära föreställningen om att alla slår längre och längre stämmer inte för amatörer.",
+        "bild_4_du_tror_men_problemet": "Du tror att dina drives borde vara längre nu än för fem år sedan. Problemet: för de flesta amatörer har snittet stått stilla – längden förändras inte av sig självt.",
+        "bild_5_kort_plan": "1. Acceptera din faktiska distans och bygg strategi runt den\n2. Fokusera på consistency, inte maxdistans\n3. Spela smarta hål med din faktiska längd",
+        "bild_6_kommentarsfråga": "Slår du längre nu än för 5 år sedan – eller känns det bara så? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 54,
+      "titel": "Höjd ger gratis 19 meter",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket längre driver en 10-handicap på höga baner jämfört med havsnivå?",
+        "bild_2_svaret": "19 meter. En 10-handicap slår 220 meter vid havsnivå – och 240 meter på 5 000+ fots höjd. Det är en halv klubba gratis.",
+        "bild_3_det_betyder": "Om du spelar på utlandsresa i bergiga omgivningar eller på högt belägna banor, räknar du dig fel om du tar samma klubba som hemma. Dina slag bär längre – ta hänsyn till det.",
+        "bild_4_du_tror_men_problemet": "Du tror att din drive på semestern var ett rekord. Problemet: det var inte du som slog längre – det var luften som hjälpte dig med nästan en hel järn-klubba.",
+        "bild_5_kort_plan": "1. Justera klubbval med en nummer ned vid hög höjd\n2. Jämför aldrig distances från bergsbana med hemma-bana\n3. Var extra försiktig med vatten på höga baner – bollen bär mer",
+        "bild_6_kommentarsfråga": "Har du märkt skillnaden när du spelat på höga baner utomlands? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 55,
+      "titel": "20-åringarnas drives: längsta men minst träffsäkra",
+      "bilder": {
+        "bild_1_fragan": "Vilken åldersgrupp bland herrar slår längst men träffar minst fairways?",
+        "bild_2_svaret": "Spelare i 20-årsåldern. Bäst på distans – sämst på träffsäkerhet med bara 38% fairways i snitt.",
+        "bild_3_det_betyder": "Extra fart utan kontroll skapar mer problem från tee, inte färre. Den yngsta gruppen visar att mer power inte automatiskt ger bättre tee-spel. Kontroll vinner i längden.",
+        "bild_4_du_tror_men_problemet": "Du tror att om du slår längre driver blir allt enklare. Problemet: extra fart ger ofta extra spridning – och ett OB på 270 meter är lika dåligt som ett på 210.",
+        "bild_5_kort_plan": "1. Mät din fairway-procent, inte bara distansen\n2. Hitta din ideala tempo – inte maximum\n3. En kortare men spelbar drive vinner alltid",
+        "bild_6_kommentarsfråga": "Offrar du träffsäkerhet för att slå lite längre? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 56,
+      "titel": "Äldre herrar träffar 18 pp fler fairways",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket förändras driverns träffsäkerhet för herrar mellan 20-årsåldern och 70-årsåldern?",
+        "bild_2_svaret": "70-åringarnas träffsäkerhet är 18 procentenheter bättre än 20-åringarna. 56% mot 38% fairways i snitt.",
+        "bild_3_det_betyder": "Kontroll ökar med ålder och erfarenhet. Även om längden försvinner, kompenserar äldre spelare med smartare tee-spel och bättre banstrategi. Styrka är inte allt.",
+        "bild_4_du_tror_men_problemet": "Du tror att äldre spelare är sämre från tee för att de slår kortare. Problemet: de träffar faktiskt fairway nästan var annan gång mer än de yngre och undviker katastroferna.",
+        "bild_5_kort_plan": "1. Välj strategi framför muskler på svåra hål\n2. Tänk mer, svinga inte hårdare\n3. En rakt driven fairway är alltid bättre än en lång som går snett",
+        "bild_6_kommentarsfråga": "Har du blivit en smartare golfspelare med åren? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 57,
+      "titel": "Damspelares träffsäkerhet ökar med ålder",
+      "bilder": {
+        "bild_1_fragan": "Vilka träffar flest fairways bland damgolfare: de i 20-årsåldern eller 60-årsåldern?",
+        "bild_2_svaret": "60-åringarna. 63% i snitt mot 46% för 20-åringarna – en ökning med 17 procentenheter.",
+        "bild_3_det_betyder": "Precis som för herrar ökar träffsäkerheten med ålder för damspelarna. Erfarenhet och kontroll kompenserar för förlorad fart. Strategisk golf vinner i längden.",
+        "bild_4_du_tror_men_problemet": "Du tror att yngre spelare dominerar även i precision från tee. Problemet: det gör de inte – de är bara längre, inte rakare.",
+        "bild_5_kort_plan": "1. Bygg din tee-strategi kring kontroll, inte distans\n2. En spelbar boll är alltid bättre än ett potentiellt långt slag\n3. Håll koll på din fairway-procent, inte bara driverns längd",
+        "bild_6_kommentarsfråga": "Tror du att du är träffsäkrare från tee nu än du var för 10 år sedan? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 58,
+      "titel": "Bryta 100: 95 av 100 klarar det",
+      "bilder": {
+        "bild_1_fragan": "Hur svårt är det att bryta 100 som amatörgolfare?",
+        "bild_2_svaret": "94.7% klarar det. Nästan alla spelare som spelar regelbundet bryter 100 – det är den lättaste scoregränsen.",
+        "bild_3_det_betyder": "Att bryta 100 är basen. Om det är ditt mål just nu är du i gott sällskap – men du är också nära att klara det om du fokuserar på att undvika de stora hålen.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste bli dramatiskt bättre för att bryta 100. Problemet: ett par bogeys istället för treor och fyror räcker för att passera gränsen.",
+        "bild_5_kort_plan": "1. Fokusera på att aldrig göra trippelbogey eller sämre\n2. Acceptera dubbelbogey som maximum på svåra hål\n3. Spela säkert på varje par 5",
+        "bild_6_kommentarsfråga": "Minns du när du bröt 100 för första gången? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 59,
+      "titel": "Par 4-scoring förbättras stadigt med bättre handicap",
+      "bilder": {
+        "bild_1_fragan": "Vilken håltyp visar störst jämn förbättring tvärs alla handicapgrupper?",
+        "bild_2_svaret": "Par 4. Scoring mot par förbättras konsekvent för varje handicapsteg – till skillnad från par 3 som ligger stabilt och par 5 som hoppar.",
+        "bild_3_det_betyder": "Par 4 är det hål där du faktiskt mäter din progression tydligast. Bättre driver + bättre approachspel = lägre par 4-scoring, direkt och mätbart.",
+        "bild_4_du_tror_men_problemet": "Du tror att par 4 är 'baslinjen' som inte förändras. Problemet: det är faktiskt det hålet där din handicapförbättring märks tydligast hål för hål.",
+        "bild_5_kort_plan": "1. Prioritera strategisk tee-shot på par 4\n2. Sikta på green-center, inte pinnen, vid approach\n3. En bogey på par 4 är ett godkänt resultat",
+        "bild_6_kommentarsfråga": "Vad är din genomsnittliga score på par 4 jämfört med par? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 60,
+      "titel": "Driver för damer: 0–5 hcp slår 75 meter längre",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är driverlängdskillnaden mellan låghandicap och höghandicap bland damspelarna?",
+        "bild_2_svaret": "75 meter. En dam med 0–5 hcp slår i snitt 220 meter. En dam med 30+ hcp slår 145 meter.",
+        "bild_3_det_betyder": "Längdskillnaderna bland damer är faktiskt proportionellt ännu större än bland herrar. Det förändrar hela hålet – approach-avstånd, klubbval, strategimöjligheter.",
+        "bild_4_du_tror_men_problemet": "Du tror att damspelares skillnader mest handlar om precision. Problemet: det handlar minst lika mycket om 75 meters längdskillnad som radikalt förändrar varje hål.",
+        "bild_5_kort_plan": "1. Välj tee som matchar din faktiska längd\n2. Bygg din strategi runt ditt verkliga approach-avstånd\n3. Acceptera att bogey är ditt mål på långa par 4",
+        "bild_6_kommentarsfråga": "Spelar du från rätt tee för din driverlängd? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 61,
+      "titel": "Damage control är din väg till lägre handicap",
+      "bilder": {
+        "bild_1_fragan": "Vad är den enda gemensamma faktorn för alla spelare som förbättrar sin handicap?",
+        "bild_2_svaret": "Skadestopp. Birdies förändrar knappt. Dubbelbogeys och värre är det som håller handicapen uppe.",
+        "bild_3_det_betyder": "Skillnaden i scoring mellan handicapgrupper är inte att bättre spelare gör mer birdies. Det är att de drastiskt minskar frekvensen av katastrofhål med treor och fyror.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste börja göra birdies för att sänka din handicap. Problemet: du behöver sluta göra treor och fyror – det är det enda som räknas.",
+        "bild_5_kort_plan": "1. Sätt en gräns: max 2 dubbelbogeys per runda\n2. Spela varje hål med 'sämsta rimliga score' som mål\n3. Bogey = bra, dubbel = problem, trippel = katastrof",
+        "bild_6_kommentarsfråga": "Hur många katastrofhål (dubbel eller sämre) har du per runda i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 62,
+      "titel": "Bogey management: en spelares bästa vän",
+      "bilder": {
+        "bild_1_fragan": "Vad är det mest effektiva sättet att sänka sin score per runda?",
+        "bild_2_svaret": "Begränsa katastrofhål. Snittet i scoring-skillnad mellan handicapgrupper drivs av frekvensen av stora misstag – inte av extra bra slag.",
+        "bild_3_det_betyder": "Bogey management handlar om att veta när du ska spela säkert och när det lönar sig att ta risk. De flesta amatörer tar för mycket risk i fel lägen och betalar priset med treor och fyror.",
+        "bild_4_du_tror_men_problemet": "Du tror att konservativt spel är för tråkigt. Problemet: att ta risker på fel hål kostar dig i snitt tre till fyra slag per runda – och det syns direkt i scorekort.",
+        "bild_5_kort_plan": "1. Identifiera de tre hål du 'offrar' varje runda\n2. Spela de hålen maximalt konservativt\n3. Ta risk bara när du har 75%+ chans att det lönar sig",
+        "bild_6_kommentarsfråga": "Har du en tydlig strategi för hur du spelar svåra hål? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 63,
+      "titel": "Scoring-sanning: du lever i 80-talet",
+      "bilder": {
+        "bild_1_fragan": "I vilket score-intervall spelar de flesta amatörer nästan varje runda?",
+        "bild_2_svaret": "Mitten till övre delen av 80-talet. Snittet är 86, och de allra flesta rundor hamnar i 83–92-intervallet.",
+        "bild_3_det_betyder": "Extremt låga eller höga rundor är sällsynta. Golfscoren är mer förutsägbar och konsistent än de flesta tror. Varje bra runda är en variation kring ett fast medelvärde.",
+        "bild_4_du_tror_men_problemet": "Du tror att din bästa runda representerar din verkliga nivå. Problemet: snittet gör det – och för de flesta är det i 80-talet.",
+        "bild_5_kort_plan": "1. Använd ditt scoresnitt, inte ditt bästa resultat\n2. Sätt mål som är 2–3 slag bättre än ditt snitt\n3. Förbättra snittet, inte maximera topprundorna",
+        "bild_6_kommentarsfråga": "Hur stor skillnad är det mellan ditt bästa och ditt snittresultat? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 64,
+      "titel": "Tre-wood vs driver: position vinner",
+      "bilder": {
+        "bild_1_fragan": "När lönar det sig att ta tre-wood istället för driver från tee?",
+        "bild_2_svaret": "Praktiskt taget alltid på tight hål. Skillnaden i scoring är statistiskt signifikant – fairway ger +0.68 mot par, rough +1.05.",
+        "bild_3_det_betyder": "Varje hål med rough, bunkers eller OB är ett hål där tre-wood-logiken gäller. De 20–30 meter du offrar i längd är värda att byta mot en spelbar boll.",
+        "bild_4_du_tror_men_problemet": "Du tror att 30 meter extra driver är värt risken. Problemet: en missad fairway kostar dig 0.37 slag i snitt – varje hål, varje runda, hela säsongen.",
+        "bild_5_kort_plan": "1. Välj tre-wood på alla hål smalare än 30 meter\n2. Sätt ett fairway-mål: minst 7 av 14 hål\n3. Driver är bara ett vapen – inte ett krav",
+        "bild_6_kommentarsfråga": "Hur ofta väljer du medvetet tre-wood över driver? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 65,
+      "titel": "Herrdrivern: 63 meters gap mellan scratch och 30+",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är driverlängdskillnaden mellan scratch och 30+ handicap bland herrar?",
+        "bild_2_svaret": "63 meter. En scratch-spelare slår 244 meter i snitt. En 30+ handicap slår 181 meter. Det är ett helt järn av skillnad.",
+        "bild_3_det_betyder": "63 meters skillnad förändrar varje approach. Den bättre spelaren approacherar ofta från 100–120 meter medan den sämre approacherar från 150–175. Det är en helt annan match.",
+        "bild_4_du_tror_men_problemet": "Du tror att 63 meter inte spelar så stor roll. Problemet: 63 meter är skillnaden mellan att ha en wedge in mot flaggan och ett halvt 5-järn – och det syns på scoren.",
+        "bild_5_kort_plan": "1. Fokusera på att öka distansen stegvis, inte drastiskt\n2. Hitta din 'performance average' – inte bara snittet\n3. Träna konsistens i centerkontakt, inte maxkraft",
+        "bild_6_kommentarsfråga": "Hur långt slår du driver i snitt på ett normalt hål? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 66,
+      "titel": "GIR och proximitet: det handlar om avstånd in",
+      "bilder": {
+        "bild_1_fragan": "Vad är det viktigaste att förbättra för att träffa fler greener?",
+        "bild_2_svaret": "Korta ned din approach-distans. Hög-handicap spelar in från 154 meter i snitt. Scratch från 135. De 19 metrarna avgör.",
+        "bild_3_det_betyder": "Varje meter kortare approachavstånd ger bättre GIR-chans. Det är inte järnteknik som skiljer mest – det är var du befinner dig när du slår det andra slaget.",
+        "bild_4_du_tror_men_problemet": "Du tror att du behöver bättre järnklubbor. Problemet: du behöver korta ned ditt approach-avstånd – och det börjar med bättre tee-spel.",
+        "bild_5_kort_plan": "1. Mät ditt genomsnittliga approach-avstånd under 3 rundor\n2. Sträva efter att korta ned det med 5–10 meter\n3. En kortare approach från fairway > längre från rough",
+        "bild_6_kommentarsfråga": "Vet du faktiskt från hur långt du approacherar i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 67,
+      "titel": "Wedge carry: vet du din exakta distans?",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är risken att du missbedömer din wedge carry-distans i matchen?",
+        "bild_2_svaret": "Stor. Ungefär 40% av alla wedge-missar är korta – ett tecken på att nästan alla systematiskt underskattar sin carry-distans med delvisa slag.",
+        "bild_3_det_betyder": "Det är inte att du slår dåliga wedgeslag – du vet troligtvis inte exakt hur långt du bär din 52°, 56° och 60° i olika svings. Och den kunskapen är direkt kopplad till scoring.",
+        "bild_4_du_tror_men_problemet": "Du tror att du vet dina wedge-distanser ungefärligen. Problemet: ungefär är inte tillräckligt – 5 meters underskott landar du i framsida bunker eller fringe.",
+        "bild_5_kort_plan": "1. Rangeträna: mät exakt carry-distans för 70%, 80% och 100% sving\n2. Skriv ned siffrorna och ha dem med dig\n3. Välj alltid utifrån carry – inte total distans",
+        "bild_6_kommentarsfråga": "Vet du exakt hur långt du bär din 56-wedge på 80% sving? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 68,
+      "titel": "Från 150 meter: scratch är 40 fot bort, 25hcp är 70 fot",
+      "bilder": {
+        "bild_1_fragan": "Hur nära flaggan slår en scratch jämfört med en 25-handicap från 150 meter?",
+        "bild_2_svaret": "Scratch: ~40 fot i snitt. 25hcp: ~70 fot i snitt. Nästan dubbelt så långt bort – och det avgör allt.",
+        "bild_3_det_betyder": "En 70-fots putt är extremt svår för alla. Det innebär att 25-hcp ofta börjar hålet med en extrem nackdel redan på greenen – oavsett puttingteknik.",
+        "bild_4_du_tror_men_problemet": "Du tror att proximity bara spelar roll för professionella spelare. Problemet: 70 fot vs 40 fot är skillnaden mellan en 3-putt och en 2-putt – och det kostar dig ett slag per hål.",
+        "bild_5_kort_plan": "1. Sikta alltid mot center av green, inte pinnen\n2. En bra miss är 40 fot bort – inte i bunkern\n3. Proximity-träning: sikta på specifik yta, inte ett smalt mål",
+        "bild_6_kommentarsfråga": "Tänker du på var du missar greenen, eller slår du bara mot flaggan? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 69,
+      "titel": "Åldrande herrar tappar 50 meter men vinner precision",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är driverlängdsskillnaden för en låg-hcp-herre från 20-årsåldern till 70-årsåldern?",
+        "bild_2_svaret": "Ungefär 54 meter. Från 263 meter i 20-årsåldern till 209 meter i 70-årsåldern – men med 18 procentenheters bättre träffsäkerhet.",
+        "bild_3_det_betyder": "Ålder kostar distans men ger precision. Det är ett byte, inte bara en förlust. De som anpassar sin spelstrategi till sin nya längd kan hålla en låg handicap hela livet.",
+        "bild_4_du_tror_men_problemet": "Du tror att förlorad distans med ålder gör dig till en sämre spelare. Problemet: ökad precision och erfarenhet kan kompensera – om du uppdaterar din strategi.",
+        "bild_5_kort_plan": "1. Uppdatera din tee-strategi när du märker att längden ändras\n2. Välj tee som matchar din nuvarande distans\n3. Exploatera din ökade precision med smartare positioner",
+        "bild_6_kommentarsfråga": "Har du anpassat din tee-strategi till hur du faktiskt slår idag? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 70,
+      "titel": "Par 5-strategin för hög handicap: bogey är bra",
+      "bilder": {
+        "bild_1_fragan": "Vad är det realistiska målet på par 5 för en 20–25 handicap?",
+        "bild_2_svaret": "Bogey. Scoring mot par på par 5 ökar snabbt med stigande handicap. Par 5 är statistiskt det hålet med störst gap mellan nivåer.",
+        "bild_3_det_betyder": "Att lägga till en birdie på par 5 för en hög handicap är sällsynt. Men att undvika trippelbogey och sämre är fullt möjligt med rätt strategi. Bogey är segern.",
+        "bild_4_du_tror_men_problemet": "Du tror att du borde göra par på par 5 för att det 'är lättare' med ett extra slag. Problemet: par 5 är statistiskt ditt svåraste hål – inte ditt lättaste.",
+        "bild_5_kort_plan": "1. Spela par 5 i tre säkra slag – aldrig forsera\n2. Mål: hamna på 80–100 meter inför tredje slag\n3. Bogey = lyckad strategi, inte misslyckande",
+        "bild_6_kommentarsfråga": "Vad är ditt genomsnittliga resultat på par 5 just nu? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 71,
+      "titel": "Konservativ tee-strategi: 0.37 slag per hål sparas",
+      "bilder": {
+        "bild_1_fragan": "Hur många slag sparas per hål om du träffar fairway istället för att missa?",
+        "bild_2_svaret": "0.37 slag per hål. Fairway träffad: +0.68 vs par. Fairway missad: +1.05 vs par. Multiplicerat på 14 par-4 och par-5 hål är det 5+ slag per runda.",
+        "bild_3_det_betyder": "Fairwayträff är den enskilt mest värdebringande statistiken för amatörer. Varje träffad fairway sparar nästan ett halvt slag mot par – 14 hål av det blir en dramatisk förändring.",
+        "bild_4_du_tror_men_problemet": "Du tror att en missad fairway är en liten sak. Problemet: det är en 0.37-slags skill och den multipliceras 14 gånger per runda – det är 5 slag du kan ta tillbaka.",
+        "bild_5_kort_plan": "1. Sätt fairway-mål: 8 av 14 per runda\n2. Välj aktiv säker sida att missa åt på varje hål\n3. Track dina fairways varje runda",
+        "bild_6_kommentarsfråga": "Vet du hur många fairways du träffar per runda i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 72,
+      "titel": "Chips från 30 meter: de flesta missar säker putt-distans",
+      "bilder": {
+        "bild_1_fragan": "Hur nära flaggan chippar en typisk amatör från 30 meter?",
+        "bild_2_svaret": "De allra flesta lämnar sig utanför realistisk ett-putt-distans – och det avgörs innan puttern ens plockas fram.",
+        "bild_3_det_betyder": "En misslyckad chips är inte lika med 'jag puttade dåligt'. Den är lika med 'min chips lämnade mig för långt bort'. Proximity avgör save-rate, inte putting-teknik.",
+        "bild_4_du_tror_men_problemet": "Du tror att problematiken är att du missar 3-metersputtsen. Problemet: du lämnar dig på 5-6 meter efter chipsen, och den puttsen sjunker ingen – inte ens bra spelare konsekvent.",
+        "bild_5_kort_plan": "1. Mål: alla chips ska landa under 2 meter från hål\n2. Öva landningspunktens precision, inte distansen\n3. Välj klubba för lägsta, rakaste bana mot hål",
+        "bild_6_kommentarsfråga": "Vad tränar du mest: puttning eller chipsens proximity? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 73,
+      "titel": "Birdies är sällsynta – även för 5 hcp",
+      "bilder": {
+        "bild_1_fragan": "Hur stor andel av hål slutar i birdie för en 5-handicap?",
+        "bild_2_svaret": "Birdies är sällsynta på alla nivåer. Pars börjar dominera vid lägre handicap, medan birdies forfarande är undantag – inte norm.",
+        "bild_3_det_betyder": "Det finns ingen handicap-nivå där birdies är vanliga i amatörgolf. Att bygga en runda på birdies är en beprövad strategi att misslyckas. Birdies är bonus – inte plan.",
+        "bild_4_du_tror_men_problemet": "Du tror att du måste göra birdies för att sänka din handicap. Problemet: birdies är lika sällsynta för en 10-hcp som de är för dig – skillnaden är dubbelbogey-frekvensen.",
+        "bild_5_kort_plan": "1. Räkna birdies per runda – chansen är du gör max 1–2\n2. Fokusera på att minimera stora misstag istället\n3. Par = bra, bogey = okej, dubbel = problemet",
+        "bild_6_kommentarsfråga": "Hur många birdies gör du per runda i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 74,
+      "titel": "Fairwaybunker vs rough: vilken är värst?",
+      "bilder": {
+        "bild_1_fragan": "Vad straffar approach-GIR mest – fairwaybunker eller rough?",
+        "bild_2_svaret": "Fairwaybunkern. Den ger den hårdaste GIR-straffet av alla lies – för alla handicap. Till och med scratch-spelare lider mest av fairwaybunkers.",
+        "bild_3_det_betyder": "Rough är dåligt – men fairwaybunkern är värre. Det är en viktig skillnad i taktik: att undvika fairwaybunkers borde alltid prioriteras, även på bekostnad av distans.",
+        "bild_4_du_tror_men_problemet": "Du tror att rough är din värsta fiende från tee. Problemet: fairwaybunkern straffar din GIR-chans mer än rough gör – det är det lie du verkligen måste undvika.",
+        "bild_5_kort_plan": "1. Lär dig exakt var alla fairwaybunkers ligger på dina hemmahål\n2. Justera tee-slag för att aktivt undvika bunkers\n3. Välj kortare klubba om bunkers är i riskzonen",
+        "bild_6_kommentarsfråga": "Hur aktiv är du i att undvika fairwaybunkers i din tee-strategi? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 75,
+      "titel": "Scoring-skillnad: par 3 vs par 4 vs par 5",
+      "bilder": {
+        "bild_1_fragan": "Vilken håltyp är svårast för hög handicap – par 3, par 4 eller par 5?",
+        "bild_2_svaret": "Par 5. Gapet i scoring mot par är störst på par 5, och ökar snabbt med stigande handicap. Par 3 förblir konstant, par 4 förbättras stadigt.",
+        "bild_3_det_betyder": "Det säger sig självt när man tänker på det: par 5 ger fler chanser att gå fel, och hög handicap utnyttjar inte birdie-möjligheten utan tar istället fler stora misstag.",
+        "bild_4_du_tror_men_problemet": "Du tror att par 5 är ett 'lättare' hål. Problemet: för 20-25 hcp är det statistiskt det farligaste hålet – med mest variation och störst skadepotential.",
+        "bild_5_kort_plan": "1. Spela par 5 med bogey som mål – inte par\n2. Tre säkra slag till bra position – sedan wedge\n3. Undvik vatten och bunkers till varje pris",
+        "bild_6_kommentarsfråga": "Vad är ditt snittresultat på par 5 just nu? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 76,
+      "titel": "Missad fairway: +17 meter svårare approach",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket längre blir nästa slag om du missar fairway, jämfört med om du träffar den?",
+        "bild_2_svaret": "Upp till 17 meter längre för hög handicap. En 25-hcp: 175 meter från rough vs 158 meter från fairway. Det är ett järn i skillnad.",
+        "bild_3_det_betyder": "Rough ger inte bara sämre lie – det ger dig ett svårare slag på längre avstånd. Du har inte ett problem – du har två problem på en gång efter en missad fairway.",
+        "bild_4_du_tror_men_problemet": "Du tror att rough bara påverkar träffsäkerheten. Problemet: du approacherar också från längre håll och med sämre kontroll – dubbelt straffad.",
+        "bild_5_kort_plan": "1. Värdera fairway-träff som 15–20 meters bonus på nästa slag\n2. Välj alltid säker tee-klubba på hål med vatten\n3. Längre drives i rough ger dig längre approacher",
+        "bild_6_kommentarsfråga": "Tänker du på approach-avstånd när du väljer tee-slag? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 77,
+      "titel": "Upp och ned från 50 meter: scratch tar 3 slag",
+      "bilder": {
+        "bild_1_fragan": "Hur många slag tar det en scratch-golfare att hola ut från 50 meter efter missad green?",
+        "bild_2_svaret": "3 slag i snitt. Från 50 meter är alla spelare mer sannolika att ta 3 slag än att lyckas med upp och ned. Scratch ingår.",
+        "bild_3_det_betyder": "En missad green från 50 meters håll är nästan alltid ett tappat slag, oavsett skicklighetsnivå. Det är inte din chipping som är problemet – 50 meter är genuint svårt.",
+        "bild_4_du_tror_men_problemet": "Du tror att du borde rädda hålen från 50 meter. Problemet: statistiken säger att inte ens scratch-spelare gör det konsekvent. Förvänta inte mer av dig än av dem.",
+        "bild_5_kort_plan": "1. Anta att missad green = tappat slag – räkna in det i strategin\n2. Prioritera GIR framför allt annat\n3. Spela mot position, inte mot pin – minska risken för 50m short-game",
+        "bild_6_kommentarsfråga": "Hur ofta lyckas du med upp och ned från 50 meter? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 78,
+      "titel": "Spridning från fairway: alla missar – frågan är hur dåligt",
+      "bilder": {
+        "bild_1_fragan": "Är tee-slagets spridning verkligen väldigt annorlunda för bra vs sämre spelare?",
+        "bild_2_svaret": "Nej. Spridningen från fairwaymitt är remarkabelt lik mellan handicapgrupper. Alla missar åt sidan – bra spelare hanterar det bara bättre efteråt.",
+        "bild_3_det_betyder": "Scoring-separation vid tee-slag kommer inte från att bättre spelare alltid flyger fairway. Det kommer från att de undviker de riktigt stora missarna och hanterar konsekvenserna.",
+        "bild_4_du_tror_men_problemet": "Du tror att din 5-meterskompis aldrig missar fairway. Problemet: han missar nästan lika ofta som du – han undviker bara OB och hanterar rough-läget bättre.",
+        "bild_5_kort_plan": "1. Sluta sikta på att träffa fairway perfekt – sikta på att undvika katastrofen\n2. Välj alltid en 'säker sida' att missa åt\n3. Ha alltid en plan för när bollen hamnar i rough",
+        "bild_6_kommentarsfråga": "Har du ett tydligt mål på varje tee eller slår du och hoppas? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 79,
+      "titel": "Lob-wedge kring green: fel val av vana",
+      "bilder": {
+        "bild_1_fragan": "Vilken klubba ger faktiskt bäst odds för upp och ned kring greenen?",
+        "bild_2_svaret": "Lägre loftad klubba. Lob-wedge ger sämre save-rate än puttern och ofta sämre än gap-wedge i de flesta situationer nära greenen.",
+        "bild_3_det_betyder": "De flesta amatörer väljer lob-wedge av vana, inte av strategi. Men datan visar konsekvent att lägre loftade alternativ ger bättre save-rate – för alla handicap-grupper.",
+        "bild_4_du_tror_men_problemet": "Du tror att lob-wedge ser mest kompetent ut. Problemet: klubbvalet borde baseras på sannolikhet, inte estetik – och lob-wedge vinner sällan den jämförelsen.",
+        "bild_5_kort_plan": "1. Välj alltid lägsta möjliga loft som klarar hindret\n2. Putter > chip om boll är nära fringe och greenen är lång\n3. Spara lob-wedgen för när du MÅSTE lyfta bollen högt",
+        "bild_6_kommentarsfråga": "Vilken klubba tar du instinktivt kring greenen? Kan du motivera varför? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 80,
+      "titel": "Damer: fairwayträff förklarar inte handicap-skillnaden",
+      "bilder": {
+        "bild_1_fragan": "Hur stor är skillnaden i fairwayträff mellan låg och hög handicap bland damspelarna?",
+        "bild_2_svaret": "Nästan ingen. Bland damer är skillnaden i fairwayträff bara 2 procentenheter mellan bästa och sämsta handicap-grupp.",
+        "bild_3_det_betyder": "För damspelarna är fairwayträff inte det som separerar nivåerna. Det är längd och katastrof-hantering. Alla träffar ungefär lika ofta – men bättre spelare slår 75 meter längre.",
+        "bild_4_du_tror_men_problemet": "Du tror att ditt tee-problem är att du inte slår tillräckligt rakt. Problemet: bland damer är det distansen som skiljer nivåerna, inte fairway-precision.",
+        "bild_5_kort_plan": "1. Fokusera på att öka distansen stegvis med bättre kontakt\n2. Välj tee-nivå som matchar din faktiska längd\n3. Jobba på centerkontakt före fart",
+        "bild_6_kommentarsfråga": "Vad är din starkaste sida från tee – distans eller precision? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 81,
+      "titel": "Injury av fairway miss: det kedjereaktion som skadar rundan",
+      "bilder": {
+        "bild_1_fragan": "Hur skapar en missad fairway en kedjereaktion av problem under ett hål?",
+        "bild_2_svaret": "Missad fairway = längre approachavstånd + sämre lie + lägre GIR-chans + sämre upp-och-ned-möjlighet = katastrof-risk ökar i varje steg.",
+        "bild_3_det_betyder": "En missad fairway är inte ett isolerat problem. Det är startskottet till en kedjereaktion. Varje efterföljande slag blir svårare, och risken för dubbelbogey mångdubblas.",
+        "bild_4_du_tror_men_problemet": "Du tror att en missad fairway kan räddas med ett bra järnslag. Problemet: statistiken visar att kostnaderna kumuleras hål efter hål, tee-slag efter tee-slag.",
+        "bild_5_kort_plan": "1. Bryt kedjan tidigt: recovery-slag direkt ut på fairway\n2. Sikta på position, inte distans från rough\n3. Acceptera ett 'halv-slag-tappat' hål och gå vidare",
+        "bild_6_kommentarsfråga": "Hur ofta försöker du 'räddas' med ett riskabelt slag från rough? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 82,
+      "titel": "Herrar i 30-årsåldern slår nästan lika långt som 20-åringarna",
+      "bilder": {
+        "bild_1_fragan": "Vilken åldersgrupp bland herrar slår näst längst efter 20-åringarna?",
+        "bild_2_svaret": "30-åringarna – bara 2–3 meter kortare per hål i snitt. Driverlängden är som mest stabil under 20–40-årsåldern.",
+        "bild_3_det_betyder": "De bästa golfinvesteringsåren är mellan 20 och 40. Det är då du kan kombinera relativt hög fart med ökande banakunskap och strategi. Variera inte taktik utan anledning.",
+        "bild_4_du_tror_men_problemet": "Du tror att du förlorar distans snabbt efter 30. Problemet: datan visar att de flesta herrar håller sin driverlängd stabil till 40-årsåldern – det är efter 50 det märks.",
+        "bild_5_kort_plan": "1. Om du är i 30-årsåldern: fokusera på strategi, inte distans\n2. Bygg din fördel på erfarenhet + stabil längd\n3. Öva smarta val, inte mer fart",
+        "bild_6_kommentarsfråga": "Känner du att du slår kortare nu än för 10 år sedan? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 83,
+      "titel": "Recovery-slag är din dolda kostnadspost",
+      "bilder": {
+        "bild_1_fragan": "Vilken typ av slag kostar mest i en runda, räknat i totala bortkastade slag?",
+        "bild_2_svaret": "Straff- och recovery-slag. En 30+ handicap behöver straff eller recovery på 45% av sina drives. Det är hål som är skadat redan vid tee-boxen.",
+        "bild_3_det_betyder": "Recovery-slag är dolda slagkostnader. Du räknar slag men kanske inte inser att ett recovery-slag = ett slag som för dig bakåt, inte framåt. Multiplikationseffekten är enorm.",
+        "bild_4_du_tror_men_problemet": "Du tror att recovery-slag är ett litet problem. Problemet: om 3 av 14 driverhål kräver recovery är du statistiskt på väg mot 90+ per runda – oavsett hur bra resten av ditt spel är.",
+        "bild_5_kort_plan": "1. Räkna recovery-slag per runda under 3 omgångar\n2. Identifiera vilka hål de inträffar på\n3. Byt strategi på de specifika hålen",
+        "bild_6_kommentarsfråga": "Räknar du dina recovery-slag och reflekterar över dem? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 84,
+      "titel": "Scoring-gapet: konsistens, inte toppar",
+      "bilder": {
+        "bild_1_fragan": "Vad är det som faktiskt avgör hur bra din runda blir – enstaka bra hål eller konsistens?",
+        "bild_2_svaret": "Konsistens. Snittrundor faller i ett smalt band (80–92 för de flesta), och det är undvikande av katastrofhål som definierar scoring-nivån, inte topprundor.",
+        "bild_3_det_betyder": "En runda byggs inte på birdie-hål utan på att hålla katastroferna borta. Din 'bästa runda' är sannolikt inte representativ – men din sämsta är mer representativ än du vill tro.",
+        "bild_4_du_tror_men_problemet": "Du tror att du borde kunna reproducera din bästa runda. Problemet: din bästa runda är ett statistiskt undantag. Din genomsnittsrunda är det du faktiskt kan styra.",
+        "bild_5_kort_plan": "1. Fokusera på att minska variansen, inte öka toppen\n2. Sätt som mål att slå 5 slag under ditt snitt\n3. Konsistens = fler bra rundor, inte enstaka lysande",
+        "bild_6_kommentarsfråga": "Hur stor är skillnaden mellan din bästa och sämsta runda på senaste månaden? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 85,
+      "titel": "Driver accuracy: scratch träffar 50% av fairways",
+      "bilder": {
+        "bild_1_fragan": "Hur stor andel av fairways träffar en scratch-spelare med driver?",
+        "bild_2_svaret": "50%. Inte 80%, inte 90% – 50%. Och 30+ hcp träffar 40%. Skillnaden är bara 10 procentenheter.",
+        "bild_3_det_betyder": "Fairwayträff är inte det som separerar scratch från 30+ hcp. Det är de 63 meters längdskillnad och hanteringen av driverproblemen som gör skillnaden. Accuracy är mer lika än du tror.",
+        "bild_4_du_tror_men_problemet": "Du tror att bättre spelare träffar fairway nästan alltid. Problemet: scratch träffar bara var annan fairway – precis som de flesta amatörer. Skillnaden är vad de gör med missen.",
+        "bild_5_kort_plan": "1. Acceptera att du kommer missa fairways – alla gör det\n2. Ha en plan för vad du gör från rough\n3. Fokusera på att eliminera OB och hazard, inte på att alltid träffa fairway",
+        "bild_6_kommentarsfråga": "Vad är din fairway-procent per runda? Har du ens räknat? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 86,
+      "titel": "Par 5 för scratch: from birdie-möjlighet",
+      "bilder": {
+        "bild_1_fragan": "Varför är par 5 ett birdie-hål för låg handicap men ett katastrofhål för hög handicap?",
+        "bild_2_svaret": "Bättre spelare når greenen i 2 slag eller hamnar på 80–100 meter. Hög handicap börjar ofta tredje slag från 130–160 meter. Det är två helt olika hål.",
+        "bild_3_det_betyder": "Par 5 avslöjar längdskillnaden tydligast. En scratch leker med hål att komma nära greenen i 2 slag. En 25-hcp är fortfarande i 'long approach territory' på tredje slag. Hålet spelar för dem på helt olika sätt.",
+        "bild_4_du_tror_men_problemet": "Du tror att par 5 ger dig en extra chans för birdie. Problemet: för höga handicap är par 5 ett hål med ökad skadrisk, inte ökad birdie-chans.",
+        "bild_5_kort_plan": "1. Mål på par 5: lämna dig 80–90 meter inför tredje slag\n2. Välj säkert andra slag mot bra position\n3. Aldrig forsera mot greenen i 2 på långa par 5",
+        "bild_6_kommentarsfråga": "Hur många birdies har du gjort på par 5 hittills i år? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 87,
+      "titel": "Lie påverkar approach mer än distans tror du",
+      "bilder": {
+        "bild_1_fragan": "Hur stor skillnad gör lien jämfört med distansen på din approach-träffsäkerhet?",
+        "bild_2_svaret": "Lien reducerar GIR dramatiskt. Rough och fairwaybunker sänker GIR-procenten för alla spelare – till och med scratch tappar mest i fairwaybunker.",
+        "bild_3_det_betyder": "Du kan ha kortare avstånd in men om du slår från rough eller bunker spelar det ingen roll. Lien är en multiplikator av svårighet. Bra lie + lite längre > dålig lie + lite kortare.",
+        "bild_4_du_tror_men_problemet": "Du tror att distans in är allt. Problemet: en 120-meters approach ur rough ger sämre GIR-chans än 140 meter ur fairway. Lien spelar stor roll.",
+        "bild_5_kort_plan": "1. Prioritera alltid fairway framför kortare distans i rough\n2. Taktik: flytta tee-slagets mål åt fairway-sidan\n3. Från fairwaybunker: tänk position, inte distans",
+        "bild_6_kommentarsfråga": "Har du märkt att du träffar greener mer sällan från rough, även på kortare avstånd? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 88,
+      "titel": "Satsa på rätt puttar: den korta puttsen vinner",
+      "bilder": {
+        "bild_1_fragan": "Vilken putt-distans lönar det sig mest att öva på för att spara slag?",
+        "bild_2_svaret": "1–2 meter. Make-raten faller drastiskt med ökande distans. Det är korta puttar som löser scoring-problem – inte att sjunka långa.",
+        "bild_3_det_betyder": "Att öva 5-meters puttar är roligt men löser inte scoringen. Att sjunka 1–2-metersputtar konsekvent är det som faktiskt sparar slag varje runda. Fokus på rätt puttar.",
+        "bild_4_du_tror_men_problemet": "Du tror att lång puttträning är mer värdefull. Problemet: du missar troligen fler 1.5-meters puttar per runda än 5-meters puttar – och de kostar lika mycket.",
+        "bild_5_kort_plan": "1. Öva uteslutande 1–2-meters puttar i 75% av all puttträning\n2. Bygg rutin för korta puttar under press\n3. Gå aldrig upp utan att ha siktat noggrant på korta puttar",
+        "bild_6_kommentarsfråga": "Hur ofta missar du en putt under 1.5 meter? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 89,
+      "titel": "Driver vs lång järn från tee: vad berättar scoren?",
+      "bilder": {
+        "bild_1_fragan": "Borde du spela driver på alla hål där det är tillåtet?",
+        "bild_2_svaret": "Nej. Fairway träffad ger +0.68 vs par – fairway missad +1.05. Värdeskillnaden är tydlig: säker klubba som träffar fairway är alltid bättre än osäker driver i rough.",
+        "bild_3_det_betyder": "Driver är ett val, inte ett krav. Varje gång du byter till tre-wood eller lång järn och träffar fairway istället för rough, sparar du i snitt 0.37 slag på det hålet. Under 14 hål är det enorm skillnad.",
+        "bild_4_du_tror_men_problemet": "Du tror att du 'förlorar distans' när du väljer bort driver. Problemet: du vinner position, kortare approach och bättre scoring-odds. Det är en bra affär.",
+        "bild_5_kort_plan": "1. Ha en regel: byt till tre-wood om hål är under 30 meter bred\n2. Identifiera 3 hål per runda där driver är onödig risk\n3. Spela säkert och mät effekten på scoring",
+        "bild_6_kommentarsfråga": "Har du testat att ta bort driver från några specifika hål? Vad hände? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 90,
+      "titel": "Under 70: 2% lyckas – och det kräver mer än du tror",
+      "bilder": {
+        "bild_1_fragan": "Hur vanligt är det att bryta 70 bland amatörgolfare?",
+        "bild_2_svaret": "1.9% – under 2 av 100 spelare bryter 70 under en runda. Det är verkligen ett elitprestationssprång.",
+        "bild_3_det_betyder": "Att bryta 70 kräver inte bara bra slag – det kräver precision, mental styrka och nästan inga stora misstag på 18 hål. Det är en prestation de flesta aldrig kommer uppleva.",
+        "bild_4_du_tror_men_problemet": "Du tror kanske att bryta 70 är något du kan planera för. Problemet: 98% av alla amatörer gör det aldrig ens en gång – det är det svåraste momentet i golf.",
+        "bild_5_kort_plan": "1. Respektera vad bryta 70 verkligen kräver\n2. Fokusera på bryta 80 som det realistiska 'elitmålet'\n3. Bygg fundament: konsistens, skadestopp, smart strategi",
+        "bild_6_kommentarsfråga": "Vad är ditt realistiska score-mål för nästa säsong? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 91,
+      "titel": "Approach-träning lönar sig när du vet vad du tränar",
+      "bilder": {
+        "bild_1_fragan": "Vad är det viktigaste att träna på för att förbättra GIR-procenten?",
+        "bild_2_svaret": "Proximity-kontroll, inte träffsäkerhet. Bättre spelare missar inte greenen bättre – de missar kortare och mer hanterbart. Det handlar om var bollen hamnar, inte om att alltid träffa.",
+        "bild_3_det_betyder": "En 'bra miss' är 40 fot bort från hål, på kortgräs. En 'dålig miss' är i bunkern eller 70 fot bort. Träna proximity-kontroll, inte perfekt slag-träffsäkerhet.",
+        "bild_4_du_tror_men_problemet": "Du tror att målet är att alltid träffa greenen. Problemet: inte ens scratch-spelare träffar alla greener – de missar bara bättre och kortare.",
+        "bild_5_kort_plan": "1. Öva med mål: sikta på specifik zon av greenen\n2. Välj rätt 'miss-sida' baserat på pin-position\n3. Missa alltid på sidan med mer grön och bra utslagsvinkel",
+        "bild_6_kommentarsfråga": "Har du en strategi för var du siktar på greenen – eller bara mot pinnen? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 92,
+      "titel": "Scoring-strategi: spela mot bästa möjliga bogey",
+      "bilder": {
+        "bild_1_fragan": "Vad är den bästa mentala strategin för varje hål i en runda?",
+        "bild_2_svaret": "'Vad är det bästa realistiska resultatet på detta hål?' Ofta är svaret bogey – och att spela för det är smartare än att jaga par.",
+        "bild_3_det_betyder": "Att spela för bogey på svåra hål låter defensivt men är faktiskt aggressivt mot ditt scoresnitt. Bogey-strategi skyddar mot dubbelbogey och tripplar – och det är vad som skapar förbättring.",
+        "bild_4_du_tror_men_problemet": "Du tror att bogey-strategi är att ge upp. Problemet: att 'hålla par' på ett hål du normalt gör dubbelbogey på är ett enormt statistiskt genombrott.",
+        "bild_5_kort_plan": "1. Identifiera dina tre svåraste hål per runda\n2. Spela dessa hål med 'bogey som seger'-mentalitet\n3. Jaga par och birdie bara på de hål du trivs med",
+        "bild_6_kommentarsfråga": "Vad är ditt svåraste hål på hemmabanan och vad är din strategi där? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 93,
+      "titel": "Liten drive-förbättring, stor score-effekt",
+      "bilder": {
+        "bild_1_fragan": "Hur mycket förändrar 10 extra meters driverlängd din scoring?",
+        "bild_2_svaret": "Mer än du kanske tror – men inte av den anledning du tror. 10 meter kortare approach-avstånd ger märkbart bättre GIR-chans, framförallt från 150–175 meter.",
+        "bild_3_det_betyder": "Det är inte distansen i sig som vinner poäng – det är att varje meter kortare approach-avstånd ökar dina odds att träffa greenen. Och träffa fler greener är din snabbaste väg till lägre score.",
+        "bild_4_du_tror_men_problemet": "Du tror att 10 meter extra driver ger dig 10 meters kortare approach. Problemet: det stämmer bara om du också träffar fairway – och kortare driver i fairway > längre i rough.",
+        "bild_5_kort_plan": "1. Träna centerkontakt – det ger mer distans än hårdare sving\n2. Mät ditt snittliga approach-avstånd varje runda\n3. Minska approach-avståndet med 5 meter = mätbar GIR-förbättring",
+        "bild_6_kommentarsfråga": "Hur fokuserar du på att öka driverlängden – och vad har du testat? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 94,
+      "titel": "Bunker kring green: svårare än du tänkt",
+      "bilder": {
+        "bild_1_fragan": "Vad är save-rate i bunker jämfört med chipping från fairway-lie nära greenen?",
+        "bild_2_svaret": "Fairway-lie ger dramatiskt högre save-rate. Bunker-lie – oavsett distans – ger lägst upp-och-ned-procent för de flesta amatörer.",
+        "bild_3_det_betyder": "Bunkers kring greenen är inte 'ett alternativ' – de är en katastrofrisk. En boll i greenside bunker kostar mer i tappade slag per runda än de flesta inser.",
+        "bild_4_du_tror_men_problemet": "Du tror att du kan 'ha en chans' att rädda från greenside bunker. Problemet: de flesta amatörer har låg save-rate ur bunker – det är bland de svåraste situationerna i amatörgolf.",
+        "bild_5_kort_plan": "1. Planera alltid att undvika bunkern vid approach\n2. En lösning kort-till-säker är bättre än lång-till-bunker\n3. Träna bunkerslag regelbundet – det betalar sig",
+        "bild_6_kommentarsfråga": "Hur stor är din save-rate ur greenside bunker i snitt? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 95,
+      "titel": "Träffa mer fairway: din enklaste handicap-sänkare",
+      "bilder": {
+        "bild_1_fragan": "Om du träffade 2 extra fairways per runda – hur mycket skulle din score förbättras?",
+        "bild_2_svaret": "Ungefär 0.74 slag. Varje träffad fairway sparar i snitt 0.37 slag mot par. Två extra fairways = ett trekvarts slag bättre per runda.",
+        "bild_3_det_betyder": "Det låter litet men på 20 rundor per säsong är det 15 sparade slag – tillräckligt för att sänka en hel handicap-grupp. Och det kräver ingen teknikförbättring, bara bättre beslut.",
+        "bild_4_du_tror_men_problemet": "Du tror att handicapsänkning kräver dramatisk teknikförbättring. Problemet: smartare val vid tee-boxen på 2 hål per runda kan ge dig en hel handicap på en säsong.",
+        "bild_5_kort_plan": "1. Välj säkrare klubba på dina 2 svåraste tee-hål\n2. Track fairways per runda under 5 rundor\n3. Jämför scoring på hål du träffar vs missar fairway",
+        "bild_6_kommentarsfråga": "Tror du att 2 extra fairways per runda vore genomförbart för dig? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 96,
+      "titel": "Puttar: 80% av alla puttar är under 5 meter",
+      "bilder": {
+        "bild_1_fragan": "Varifrån sjunker du de flesta puttar – från nära eller från håll?",
+        "bild_2_svaret": "De flesta puttar tas på korta avstånd. Make-raten faller dramatiskt med längre puttar – och merparten av puttarna som faktiskt sjunks är under 3 meter.",
+        "bild_3_det_betyder": "Att träna långa puttar är bra för lagring, men ditt scoring-system vinner på att du sjunker de 1–3-metersputtarna. Varje missad 2-meters putt är ett slag du inte kan ta tillbaka.",
+        "bild_4_du_tror_men_problemet": "Du tror att imponerande putt-träning på range är det bästa. Problemet: de puttar du missar mest i verkliga rundor är 1–2 meter – och det är de du borde öva.",
+        "bild_5_kort_plan": "1. Dedikera 50% av putt-träningen till 1–2-metersputtarna\n2. Bygg en konsekvent rutin för korta puttar\n3. Gå aldrig fram utan att ha läst linje på 1.5 meter",
+        "bild_6_kommentarsfråga": "Hur många gånger per runda missar du en putt under 2 meter? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 97,
+      "titel": "Mental kost: acceptera banan – spela inte mot den",
+      "bilder": {
+        "bild_1_fragan": "Vad är den viktigaste mentala insikten för en 15–25 handicap?",
+        "bild_2_svaret": "Att lägre score kommer från färre misstag, inte fler bra slag. De bästa amatörs-rundorna är inte de med flest birdies – utan de med färst katastrofhål.",
+        "bild_3_det_betyder": "Golf belönar inte aggression i amatörledet. Det belönar konsistens och skadestopp. Varje gång du tar en extra risk i fel läge är oddsen starkt emot dig.",
+        "bild_4_du_tror_men_problemet": "Du tror att offensivt spel ger bättre scoring. Problemet: statistiken visar konsekvent att konservativt spel med undvikande av katastrofer sänker handicapen snabbare.",
+        "bild_5_kort_plan": "1. Definiera din 'risk-regel': när tar du risk och när inte\n2. Spela aldrig riskfullt på ett hål du redan ligger dåligt på\n3. Acceptera bogey – kämp för att undvika dubbeln",
+        "bild_6_kommentarsfråga": "Vilken är din tendens – för aggressiv eller för defensiv på banan? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 98,
+      "titel": "Varför du aldrig verkar förbättras: variansen",
+      "bilder": {
+        "bild_1_fragan": "Varför känns det som att du inte förbättras trots att du tränar?",
+        "bild_2_svaret": "Variansen i golf är hög. Snittet rör sig långsamt, men en dålig runda kan verka sudda ut 5 bra. Det är normalt – och det är inte ett tecken på att du inte förbättras.",
+        "bild_3_det_betyder": "Scoring i golf styrs av ett snitt med naturlig variation. Din 'bästa runda' representerar inte din nivå – snittet gör det. Och snittet förbättras långsamt och stadigt, inte i hopp.",
+        "bild_4_du_tror_men_problemet": "Du tror att en dålig runda suddar ut allt du lärt dig. Problemet: en runda är statistiskt irrelevant. Det är trenden av 10–20 rundor som mäter din verkliga förbättring.",
+        "bild_5_kort_plan": "1. Track ditt score-snitt på senaste 10 rundor\n2. Döm inte din progress av enstaka rundor\n3. Förbättring = en snittminskning på 2–3 slag per säsong",
+        "bild_6_kommentarsfråga": "Tittar du på ditt snitt eller bara på ditt bästa resultat? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 99,
+      "titel": "Chipping med lägre loft: prova det en runda",
+      "bilder": {
+        "bild_1_fragan": "Vad händer om du chippar med lägre loft än du brukar?",
+        "bild_2_svaret": "Save-raten förbättras. Lägre loft ger bättre kontroll och mer konsekvent proximity för de flesta amatörer i de flesta situationer kring greenen.",
+        "bild_3_det_betyder": "De flesta amatörer överkomplexerar chipping med höga loftar. En 7-järn eller en 8-järn som rullar fram mot hål ger ofta bättre proximity än ett lobat wedge-slag med 60-gradare.",
+        "bild_4_du_tror_men_problemet": "Du tror att lob-wedge alltid är det bästa valet nära greenen. Problemet: statistiken visar att lägre loft konsekvent ger bättre save-rate i de flesta situationer.",
+        "bild_5_kort_plan": "1. Prova en hel runda med max sand-wedge kring greenen\n2. Välj 7-järn eller 8-järn när ingen hinder finns\n3. Mät din save-rate jämfört med normalt",
+        "bild_6_kommentarsfråga": "Har du provat att chippa med lägre loft? Vad var resultatet? Kommentera! 👇"
+      }
+    },
+    {
+      "id": 100,
+      "titel": "Din nästa nivå: konkreta siffror att sikta på",
+      "bilder": {
+        "bild_1_fragan": "Vad krävs konkret för att sänka sin handicap med 5 slag?",
+        "bild_2_svaret": "Statistiken pekar på tre faktorer: träffa 2 extra fairways per runda, minska dubbelbogeys från ex. 5 till 3, och förbättra chip-proximity till under 3 meter i snitt.",
+        "bild_3_det_betyder": "Fem handicap-slag är inte ett mysterium. Det är väldefinierat: lite bättre från tee, lite färre katastrofhål, lite bättre chips. Inget av det kräver en enorm tekniköversyn.",
+        "bild_4_du_tror_men_problemet": "Du tror att 5 handicap-slag kräver dramatisk förbättring av alla delar av spelet. Problemet: det kräver faktiskt bara marginella förbättringar på 2–3 specifika områden.",
+        "bild_5_kort_plan": "1. Välj ett förbättringsområde: fairway, dubbelbogey eller chip\n2. Arbeta uteslutande med det i 10 rundor\n3. Mät förändringen och gå vidare till nästa",
+        "bild_6_kommentarsfråga": "Vad är ditt konkreta mål för nästa golfsäsong? Kommentera! 👇"
+      }
+    }
+  ]
+}
