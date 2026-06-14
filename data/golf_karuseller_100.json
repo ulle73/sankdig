@@ -10,7 +10,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du spelar sämre än genomsnittet. Problemet: de flesta överskattar hur bra andra spelar. 86 är normalt.",
         "bild_5_kort_plan": "1. Acceptera var du faktiskt befinner dig\n2. Sätt realistiska mål (+/- 3 slag)\n3. Jämför dig med data, inte med känsla",
         "bild_6_kommentarsfråga": "Vad är ditt bästa resultat på 18 hål någonsin? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 2,
@@ -22,7 +24,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bryta 80 är 'nästa steg'. Problemet: det är faktiskt ett steg som 69 av 100 spelare aldrig tar.",
         "bild_5_kort_plan": "1. Fokusera på att minska stora misstag\n2. Räkna bogeys – inte birdies\n3. Konsistens är nyckeln, inte topprundor",
         "bild_6_kommentarsfråga": "Vilken scoregräns försöker du just nu slå? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 3,
@@ -34,7 +38,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du behöver göra fler birdies för att sänka handicapen. Problemet: en dubbelbogey kostar mer än en birdie ger.",
         "bild_5_kort_plan": "1. Räkna dubbelbogeys per runda\n2. Spela konservativt vid risk\n3. Bogey är ett bra resultat – acceptera det",
         "bild_6_kommentarsfråga": "Hur många dubbelbogeys gör du i snitt per runda? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 4,
@@ -46,7 +52,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att fler slag = lättare hål. Problemet: fler slag = fler chanser att göra katastrofmisstag på långa hål.",
         "bild_5_kort_plan": "1. Spela par 5 i tre säkra slag\n2. Undvik vatten och bunkers till varje pris\n3. Bogey på par 5 är ett bra resultat",
         "bild_6_kommentarsfråga": "Ser du par 5 som möjlighet eller fara? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 5,
@@ -58,7 +66,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en bra drive skapar möjligheter. Problemet: en bra drive skyddar dig framför allt från skada.",
         "bild_5_kort_plan": "1. Välj klubba som ger fairway, inte max yards\n2. Identifiera säkra sidor av varje hål\n3. Tre-wood > driver på smala hål",
         "bild_6_kommentarsfråga": "Hur många fairways träffar du i snitt per runda? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 6,
@@ -70,7 +80,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rough bara är lite jobbigare. Problemet: du tappar yards OCH får sämre lie – och det kostar slag varje gång.",
         "bild_5_kort_plan": "1. Prioritera fairway framför distance off tee\n2. Välj konsekvent, inte maximal klubba\n3. Tänk på nästa slag, inte detta",
         "bild_6_kommentarsfråga": "Väljer du driver eller tre-wood på smala hål? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 7,
@@ -82,7 +94,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du behöver slå längre. Problemet: du behöver träffa centret av klubban oftare.",
         "bild_5_kort_plan": "1. Öva kontrollerat svingande\n2. Minska gapet mellan ditt snittslag och bästa slag\n3. Yardsjakt är meningslös",
         "bild_6_kommentarsfråga": "Prioriterar du distance eller kontroll i ditt spel? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 8,
@@ -94,7 +108,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att proffs aldrig missar fairway. Problemet: alla gör det – skillnaden är konsekvensen av missen.",
         "bild_5_kort_plan": "1. Eliminera de stora missarna (OB, vatten)\n2. Välj en säker sida att missa åt\n3. Spela strategiskt från rough",
         "bild_6_kommentarsfråga": "Vart missar du oftast – höger eller vänster? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 9,
@@ -106,7 +122,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att teknik är problemet från 180 yards. Problemet: 180 yards är svårt för alla – också 5-handicap.",
         "bild_5_kort_plan": "1. Maximera fairwayträffar för kortare inslag\n2. Sikta inte på pinnen från långt håll\n3. Välj rätt green-zon att missa",
         "bild_6_kommentarsfråga": "Från vilket avstånd är approachen din största svaghet? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 10,
@@ -118,7 +136,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rough är det farliga. Problemet: fairwaybunkern kostar dig GIR mer än rough gör.",
         "bild_5_kort_plan": "1. Identifiera fairwaybunkers på varje hål\n2. Välj klubba som undviker dem\n3. Acceptera kortare driv för position",
         "bild_6_kommentarsfråga": "Hamnar du ofta i fairwaybunkers? Vilken bana är värst? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 11,
@@ -130,7 +150,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att proffs alltid träffar greenen från 150. Problemet: de missar också – men kortare och bättre.",
         "bild_5_kort_plan": "1. Sikta på center av greenen, inte pinnen\n2. En bra miss är 30 fot bort, inte i bunkern\n3. Proximity, inte perfekthet",
         "bild_6_kommentarsfråga": "Siktar du alltid på pinnen eller spelar du säkrare? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 12,
@@ -142,7 +164,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du tar rätt klubba. Problemet: du underskattar bärningen på delvisa wedgeslag systematiskt.",
         "bild_5_kort_plan": "1. Ta en klubba mer än du tror\n2. Öva carry-distanser på range\n3. Använd ett Shot Scope eller GPS-enhet",
         "bild_6_kommentarsfråga": "Missar du oftast kort, lång, vänster eller höger med wedge? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 13,
@@ -154,7 +178,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du kan rädda hål från rough. Problemet: statistiken visar att missade greener regelmässigt leder till tappade slag.",
         "bild_5_kort_plan": "1. Prioritera att träffa greener framför att nå pinnen\n2. Anta att missad green = tappat slag\n3. Bygg strategi kring GIR",
         "bild_6_kommentarsfråga": "Hur många greener träffar du i snitt per runda? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 14,
@@ -166,7 +192,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att misslyckad upp och ned beror på att du missar puttsen. Problemet: chipsen lämnade dig för långt bort.",
         "bild_5_kort_plan": "1. Fokusera på proximity vid chipsning\n2. Sikta på att komma under 8 fot\n3. Välj klubba efter träffsäkerhet, inte höjd",
         "bild_6_kommentarsfråga": "Hur stor andel upp och ned lyckas du med i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 15,
@@ -178,7 +206,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att lobben ser proffsig ut. Problemet: puttern ger faktiskt bättre odds – men du väljer vana framför statistik.",
         "bild_5_kort_plan": "1. Testa puttern från fringe och nära rough\n2. Spara lobbarna för när du MÅSTE lyfta\n3. Välj utifrån sannolikhet, inte känsla",
         "bild_6_kommentarsfråga": "Har du provat puttern utanför greenen? Vad händer? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 16,
@@ -190,7 +220,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att dina missar beror på puttingen. Problemet: chipsen landar för långt bort – och en lång putt är svår för alla.",
         "bild_5_kort_plan": "1. Sätt proximity-mål: under 8 fot från 30 yards\n2. Öva på att styra landningspunkt\n3. Spela mer loft om du konsekvent missar längd",
         "bild_6_kommentarsfråga": "Hur lång är din första putt efter chipsen i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 17,
@@ -202,7 +234,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att par 5 är 'lättare' för att du har fler slag. Problemet: fler slag = fler chanser att göra stora misstag.",
         "bild_5_kort_plan": "1. Spela par 5 konservativt i 2 slag till bra position\n2. Undvik vatten och bunkers till varje pris\n3. Bogey är ett bra mål för höga handicap",
         "bild_6_kommentarsfråga": "Har du någonsin gjort birdie på ett par 5? På vilken bana? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 18,
@@ -214,7 +248,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rough mest är jobbigare att slå från. Problemet: du måste slå längre OCH ur rough – dubbelt straff.",
         "bild_5_kort_plan": "1. Välj klubba för fairway, inte max-distance\n2. Tre-wood eller hybrid istället för driver\n3. Position > yards off tee",
         "bild_6_kommentarsfråga": "Tar du hellre tre-wood eller driver på tight hål? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 19,
@@ -226,7 +262,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du är nära att gå under 80. Problemet: de sista slagen är de svåraste – och kräver mer än bra dagar.",
         "bild_5_kort_plan": "1. Fokusera på att minska dubbelbogeys\n2. Ett bogey-snitt är vägen dit\n3. Konsistens > enstaka bra hål",
         "bild_6_kommentarsfråga": "Har du brutit 80? Vad var hemligheten? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 20,
@@ -238,7 +276,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du behöver göra fler birdies för att sänka din handicap. Problemet: sluta göra treor och fyror på par 4 – det är skillnaden.",
         "bild_5_kort_plan": "1. Räkna dubbelbogeys efter varje runda\n2. Sätt mål: max 2 per runda\n3. Aggressiv på par, konservativ vid skada",
         "bild_6_kommentarsfråga": "Hur många dubbelbogeys gör du i snitt per runda? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 21,
@@ -250,7 +290,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att alla andra blir längre. Problemet: Du jämför ofta din vanliga drive med någon annans bästa drive..",
         "bild_5_kort_plan": "1. Mät din riktiga snittdrive\n2. Sluta räkna bästa träffen\n3. Bygg strategi efter din normala längd",
         "bild_6_kommentarsfråga": "Hur långt slår du din normala drive – inte din bästa? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 22,
@@ -262,7 +304,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att problemet är att du inte slår långt nog. Problemet: För många drives går inte att spela vidare normalt från..",
         "bild_5_kort_plan": "1. Slå inte driver på alla hål\n2. Välj klubba efter straffrisk\n3. Sikta bort från din farliga miss",
         "bild_6_kommentarsfråga": "Hur ofta sätter din driver dig i trubbel? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 23,
@@ -274,7 +318,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bra spelare bara slår rakare. Problemet: De slår längre och hamnar mer sällan i katastrof..",
         "bild_5_kort_plan": "1. Jaga spelbar längd, inte maxlängd\n2. Ta bort straffslagen först\n3. Mät hur ofta driven faktiskt är spelbar",
         "bild_6_kommentarsfråga": "Är ditt största problem från tee längd eller trubbel? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 24,
@@ -286,7 +332,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att fart är allt. Problemet: Fart utan kontroll skapar ofta dyrare missar..",
         "bild_5_kort_plan": "1. Välj mål innan klubba\n2. Slå inte hårdare än du kan kontrollera\n3. Spela för nästa slag, inte längsta slaget",
         "bild_6_kommentarsfråga": "Slår du oftast för långt – eller för säkert? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 25,
@@ -298,7 +346,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du ska slå som du gjorde förr. Problemet: Din strategi kanske fortfarande bygger på en gammal längd..",
         "bild_5_kort_plan": "1. Uppdatera dina verkliga carry-avstånd\n2. Sluta spela efter gamla minnen\n3. Välj tee och strategi efter dagens längd",
         "bild_6_kommentarsfråga": "Slår du lika långt nu som för 5 år sedan? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 26,
@@ -310,7 +360,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att kortare alltid betyder sämre. Problemet: Okontrollerad längd kostar ofta mer än den ger..",
         "bild_5_kort_plan": "1. Prioritera spelbar miss\n2. Acceptera mindre längd på svåra hål\n3. Bygg tee-strategi runt fairway och vinkel",
         "bild_6_kommentarsfråga": "Hade du bytt 20 meter längd mot fler fairways? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 27,
@@ -322,7 +374,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att längd är gratis. Problemet: Extra fart kommer ofta med dyrare missar..",
         "bild_5_kort_plan": "1. Slå maxdrive bara på breda hål\n2. Välj 3-wood eller hybrid på smala hål\n3. Ha en säker tee-klubba",
         "bild_6_kommentarsfråga": "Har du en säker klubba från tee? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 28,
@@ -334,7 +388,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att längd inte spelar roll. Problemet: Kortare drives ger oftare längre och svårare inspel..",
         "bild_5_kort_plan": "1. Träna bollträff före fart\n2. Hitta mer längd utan större miss\n3. Spela efter ditt vanligaste inspel",
         "bild_6_kommentarsfråga": "Hur mycket längre tror du att du behöver slå för att sänka dig? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 29,
@@ -346,7 +402,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste slå rakt hela tiden. Problemet: Du måste göra dina missar mindre farliga..",
         "bild_5_kort_plan": "1. Identifiera din stora miss\n2. Sikta så den missen fortfarande är spelbar\n3. Sluta kräva perfekt drive",
         "bild_6_kommentarsfråga": "Vad är din vanligaste miss från tee? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 30,
@@ -358,7 +416,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en längre drive räddar dig. Problemet: En ospelbar drive dödar hålet direkt..",
         "bild_5_kort_plan": "1. Räkna penalty/recovery per rond\n2. Byt strategi på hål där du ofta tappar boll\n3. Välj klubba som håller dubbelbogey borta",
         "bild_6_kommentarsfråga": "Hur många straffslag tar du från tee per rond? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 31,
@@ -370,7 +430,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att driverproblem bara är för höghandicapare. Problemet: Även bra spelare måste hantera risk från tee..",
         "bild_5_kort_plan": "1. Markera riskhål före rundan\n2. Välj bort driver på 2–3 hål\n3. Spela för bogey som sämsta rimliga score",
         "bild_6_kommentarsfråga": "Vilket hål på din hemmabana borde du inte slå driver på? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 32,
@@ -382,7 +444,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du bara behöver slå bättre drives. Problemet: Du kanske slår driver på fel hål..",
         "bild_5_kort_plan": "1. Välj 3 säkra tee-hål\n2. Välj 3 hål där driver förbjuds\n3. Se om scoren blir stabilare",
         "bild_6_kommentarsfråga": "Hur många gånger per rond borde du låta drivern vila? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 33,
@@ -394,7 +458,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste använda driver för att nå fram. Problemet: Du förlorar ofta hålet redan från tee..",
         "bild_5_kort_plan": "1. Spela 9 hål utan driver\n2. Jämför antal straffslag\n3. Använd driver bara på breda hål",
         "bild_6_kommentarsfråga": "Skulle du våga spela en rond utan driver? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 34,
@@ -406,7 +472,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att längd alltid går att jämföra rakt av. Problemet: Miljön kan ge gratis meter..",
         "bild_5_kort_plan": "1. Jämför inte drives från olika banor blint\n2. Mät din längd hemma\n3. Använd klubbdata från dina egna förhållanden",
         "bild_6_kommentarsfråga": "Har du slagit längre på utlandsresa än hemma? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 35,
@@ -418,7 +486,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att skillnaden bara sitter i precision. Problemet: Kortare drives förändrar hela hålet..",
         "bild_5_kort_plan": "1. Träna bollträff före teknikdetaljer\n2. Bygg fart stegvis\n3. Välj tee efter verklig carry",
         "bild_6_kommentarsfråga": "Vad stoppar dig mest från tee: längd eller riktning? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 36,
@@ -430,7 +500,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att längre alltid är bättre. Problemet: Längd utan kontroll skapar ofta nästa misstag..",
         "bild_5_kort_plan": "1. Bygg en trygg tee-klubba\n2. Träna startlinje\n3. Prioritera fairway på smala hål",
         "bild_6_kommentarsfråga": "Skulle du hellre slå kortare men träffa fler fairways? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 37,
@@ -442,7 +514,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rakare från tee löser allt. Problemet: Du måste också mäta vad som händer efter tee-slaget..",
         "bild_5_kort_plan": "1. Mät inte bara fairways\n2. Mät avstånd kvar till green\n3. Mät hur ofta du har fritt slag två",
         "bild_6_kommentarsfråga": "Vad mäter du efter rundan – fairways eller score? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 38,
@@ -454,7 +528,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att alla andra slår 250+. Problemet: Golfare pratar ofta om max, inte snitt..",
         "bild_5_kort_plan": "1. Räkna bara drives som är i spel\n2. Använd snitt, inte längsta slag\n3. Spela efter verkligheten",
         "bild_6_kommentarsfråga": "Vad är din snittdrive om du är helt ärlig? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 39,
@@ -466,7 +542,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste slå extremt långt. Problemet: Du behöver bättre strategi efter din faktiska längd..",
         "bild_5_kort_plan": "1. Välj tee efter inspelsavstånd\n2. Bygg favoritavstånd in mot green\n3. Sluta jämföra dig med maxslag",
         "bild_6_kommentarsfråga": "Spelar du från tee som passar din längd? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 40,
@@ -478,7 +556,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bra golf betyder perfekta drives. Problemet: Bra golf betyder färre katastrofdrives..",
         "bild_5_kort_plan": "1. Acceptera små missar\n2. Ta bort OB och hazard från spel\n3. Välj klubb efter sämsta möjliga utfall",
         "bild_6_kommentarsfråga": "Hur många katastrofdrives har du en vanlig rond? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 41,
@@ -490,7 +570,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att problemet är att du inte slår tillräckligt långt. Problemet: du förlorar hålen redan vid tee-boxen – inte vid greenen.",
         "bild_5_kort_plan": "1. Välj bort driver på de tre svåraste hålen per runda\n2. Mät hur många drives som faktiskt är spelbara\n3. Acceptera kortare men säkrare tee-slag",
         "bild_6_kommentarsfråga": "Hur många gånger per runda hamnar du i verklig trubbel med driver? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 42,
@@ -502,7 +584,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bra spelare alltid slår driver perfekt. Problemet: de hamnar i trubbel de också – bara mycket mer sällan och de hanterar det bättre.",
         "bild_5_kort_plan": "1. Minska din wayward-rate – inte öka din distans\n2. Varje procent färre katastrofdrives spar slag\n3. Spela smarta hål istället för maximala hål",
         "bild_6_kommentarsfråga": "Vilken är din värsta drivermiss – för vänster, höger, eller OB rakt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 43,
@@ -514,7 +598,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att ditt driverproblem försvinner när du tränar mer på range. Problemet: problemet är strategin på banan – inte tekniken på rangen.",
         "bild_5_kort_plan": "1. Identifiera vilka hål du konsekvent får problem på\n2. Välj tre-wood eller lång järn på dessa hål\n3. Bokför wayward drives under tre rundor",
         "bild_6_kommentarsfråga": "Vilket hål på din hemmabana ger dig mest driverproblem? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 44,
@@ -526,7 +612,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att din par 3-svaghet är unik för dig. Problemet: alla sämre amatörer kämpar med par 3 – det är en universell utmaning, inte din personliga brist.",
         "bild_5_kort_plan": "1. Sikta alltid på center av greenen – inte pinnen – på par 3\n2. Välj klubba för mitten, inte för att nå\n3. Bogey är ett bra mål på svåra par 3",
         "bild_6_kommentarsfråga": "Vad är ditt snittresultat på par 3? Bättre eller sämre än du tror? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 45,
@@ -538,7 +626,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att din dåliga GIR beror på ditt järnspel. Problemet: du approacherar konsekvent från 20 meter längre håll än bättre spelare – det är avståndets fel, inte ditt.",
         "bild_5_kort_plan": "1. Fokusera på att korta ned ditt inspels-avstånd med bättre tee-spel\n2. Varje meter kortare in mot flaggan ger bättre GIR-chans\n3. Bogey från 154 meter är ett rimligt mål",
         "bild_6_kommentarsfråga": "Från vilket avstånd approacherar du oftast mot green? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 46,
@@ -550,7 +640,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du missar greener för att du är dålig på järn. Problemet: du missar för att du approacherar från för långt håll – och det börjar vid tee-boxen.",
         "bild_5_kort_plan": "1. Minska approachavståndet – det är det viktigaste målet\n2. Träffa fler fairways för kortare andra slag\n3. Sikta på safe zones istället för pinnen från 175+",
         "bild_6_kommentarsfråga": "Hur många greener träffar du i snitt per runda nu? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 47,
@@ -562,7 +654,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du väljer rätt wedge. Problemet: statistiken visar att du systematiskt underskattar bärningen – och landar kort, varje gång.",
         "bild_5_kort_plan": "1. Ta alltid en klubba mer än du tror på delvisa wedgeslag\n2. Lär dig din exakta carry-distans för varje wedge\n3. Sikta ett steg djupare in på greenen",
         "bild_6_kommentarsfråga": "Vet du exakt hur långt du bär din pitching wedge? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 48,
@@ -574,7 +668,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du misslyckas med upp och ned för att du putar dåligt. Problemet: du chippar dig för långt bort – och ingen putt är enkel på 8 meter.",
         "bild_5_kort_plan": "1. Sätt ditt mål för chips till under 2 meter\n2. Välj klubba efter precision, inte höjd\n3. Acceptera bogey om chips är omöjlig – rädda parscoren inte dubbeln",
         "bild_6_kommentarsfråga": "Hur lång är din genomsnittliga första putt efter chips? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 49,
@@ -586,7 +682,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du förlorar upp och ned för att din chipping-teknik är dålig. Problemet: du missar greenen på fel sida och lämnar dig i rough – och det beslutet fattas redan vid approach-slaget.",
         "bild_5_kort_plan": "1. Planera din miss-zon vid varje approach\n2. Välj att missa mot kortgräs, inte mot bunker\n3. Vit till vänster om rough är till höger",
         "bild_6_kommentarsfråga": "Väljer du medvetet vilken sida du missar greenen på? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 50,
@@ -598,7 +696,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att lob-wedgen kring green ser proffsigt ut. Problemet: du väljer utifrån känsla och vana – inte utifrån vilken klubba som faktiskt ger bäst odds.",
         "bild_5_kort_plan": "1. Fråga alltid: kan jag putta istället för att chippa?\n2. Spara lob-wedgen för när du MÅSTE lyfta bollen\n3. Testa puttern från fringe och nära rough nästa gång",
         "bild_6_kommentarsfråga": "Hur ofta använder du puttern utanför greenen? Fungerar det? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 51,
@@ -610,7 +710,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att puttern bara fungerar om du är duktig. Problemet: även hög-handicap lyckas med puttern i mer än hälften av fallen – välj den oftare.",
         "bild_5_kort_plan": "1. Testa puttern varje gång du är inom 5 meter utanför greenen\n2. Jämför din save-rate med lob vs putter under tre rundor\n3. Välj statistiken, inte känslan",
         "bild_6_kommentarsfråga": "Hade du vågat puttat från utanför greenen i en viktig tävling? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 52,
@@ -622,7 +724,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bättre putting skulle rädda dig. Problemet: du lämnar dig 5-6 meter bort med chipsen, och inte ens scratch-spelare sjunker den puttsen konsekvent.",
         "bild_5_kort_plan": "1. Mål: alla puttar under 2 meter efter chips\n2. Öva 1-2 meter-puttar, inte 5-6 meter-puttar\n3. Prioritera proximity framför putting-teknik",
         "bild_6_kommentarsfråga": "Hur lång är din längsta putt du faktiskt förväntar dig att sjunka? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 53,
@@ -634,7 +738,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att dina drives borde vara längre nu än för fem år sedan. Problemet: för de flesta amatörer har snittet stått stilla – längden förändras inte av sig självt.",
         "bild_5_kort_plan": "1. Acceptera din faktiska distans och bygg strategi runt den\n2. Fokusera på consistency, inte maxdistans\n3. Spela smarta hål med din faktiska längd",
         "bild_6_kommentarsfråga": "Slår du längre nu än för 5 år sedan – eller känns det bara så? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 54,
@@ -646,7 +752,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att din drive på semestern var ett rekord. Problemet: det var inte du som slog längre – det var luften som hjälpte dig med nästan en hel järn-klubba.",
         "bild_5_kort_plan": "1. Justera klubbval med en nummer ned vid hög höjd\n2. Jämför aldrig distances från bergsbana med hemma-bana\n3. Var extra försiktig med vatten på höga baner – bollen bär mer",
         "bild_6_kommentarsfråga": "Har du märkt skillnaden när du spelat på höga baner utomlands? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 55,
@@ -658,7 +766,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att om du slår längre driver blir allt enklare. Problemet: extra fart ger ofta extra spridning – och ett OB på 270 meter är lika dåligt som ett på 210.",
         "bild_5_kort_plan": "1. Mät din fairway-procent, inte bara distansen\n2. Hitta din ideala tempo – inte maximum\n3. En kortare men spelbar drive vinner alltid",
         "bild_6_kommentarsfråga": "Offrar du träffsäkerhet för att slå lite längre? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 56,
@@ -670,7 +780,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att äldre spelare är sämre från tee för att de slår kortare. Problemet: de träffar faktiskt fairway nästan var annan gång mer än de yngre och undviker katastroferna.",
         "bild_5_kort_plan": "1. Välj strategi framför muskler på svåra hål\n2. Tänk mer, svinga inte hårdare\n3. En rakt driven fairway är alltid bättre än en lång som går snett",
         "bild_6_kommentarsfråga": "Har du blivit en smartare golfspelare med åren? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 57,
@@ -682,7 +794,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att yngre spelare dominerar även i precision från tee. Problemet: det gör de inte – de är bara längre, inte rakare.",
         "bild_5_kort_plan": "1. Bygg din tee-strategi kring kontroll, inte distans\n2. En spelbar boll är alltid bättre än ett potentiellt långt slag\n3. Håll koll på din fairway-procent, inte bara driverns längd",
         "bild_6_kommentarsfråga": "Tror du att du är träffsäkrare från tee nu än du var för 10 år sedan? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 58,
@@ -694,7 +808,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste bli dramatiskt bättre för att bryta 100. Problemet: ett par bogeys istället för treor och fyror räcker för att passera gränsen.",
         "bild_5_kort_plan": "1. Fokusera på att aldrig göra trippelbogey eller sämre\n2. Acceptera dubbelbogey som maximum på svåra hål\n3. Spela säkert på varje par 5",
         "bild_6_kommentarsfråga": "Minns du när du bröt 100 för första gången? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 59,
@@ -706,7 +822,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att par 4 är 'baslinjen' som inte förändras. Problemet: det är faktiskt det hålet där din handicapförbättring märks tydligast hål för hål.",
         "bild_5_kort_plan": "1. Prioritera strategisk tee-shot på par 4\n2. Sikta på green-center, inte pinnen, vid approach\n3. En bogey på par 4 är ett godkänt resultat",
         "bild_6_kommentarsfråga": "Vad är din genomsnittliga score på par 4 jämfört med par? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 60,
@@ -718,7 +836,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att damspelares skillnader mest handlar om precision. Problemet: det handlar minst lika mycket om 75 meters längdskillnad som radikalt förändrar varje hål.",
         "bild_5_kort_plan": "1. Välj tee som matchar din faktiska längd\n2. Bygg din strategi runt ditt verkliga approach-avstånd\n3. Acceptera att bogey är ditt mål på långa par 4",
         "bild_6_kommentarsfråga": "Spelar du från rätt tee för din driverlängd? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 61,
@@ -730,7 +850,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste börja göra birdies för att sänka din handicap. Problemet: du behöver sluta göra treor och fyror – det är det enda som räknas.",
         "bild_5_kort_plan": "1. Sätt en gräns: max 2 dubbelbogeys per runda\n2. Spela varje hål med 'sämsta rimliga score' som mål\n3. Bogey = bra, dubbel = problem, trippel = katastrof",
         "bild_6_kommentarsfråga": "Hur många katastrofhål (dubbel eller sämre) har du per runda i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 62,
@@ -742,7 +864,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att konservativt spel är för tråkigt. Problemet: att ta risker på fel hål kostar dig i snitt tre till fyra slag per runda – och det syns direkt i scorekort.",
         "bild_5_kort_plan": "1. Identifiera de tre hål du 'offrar' varje runda\n2. Spela de hålen maximalt konservativt\n3. Ta risk bara när du har 75%+ chans att det lönar sig",
         "bild_6_kommentarsfråga": "Har du en tydlig strategi för hur du spelar svåra hål? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 63,
@@ -754,7 +878,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att din bästa runda representerar din verkliga nivå. Problemet: snittet gör det – och för de flesta är det i 80-talet.",
         "bild_5_kort_plan": "1. Använd ditt scoresnitt, inte ditt bästa resultat\n2. Sätt mål som är 2–3 slag bättre än ditt snitt\n3. Förbättra snittet, inte maximera topprundorna",
         "bild_6_kommentarsfråga": "Hur stor skillnad är det mellan ditt bästa och ditt snittresultat? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 64,
@@ -766,7 +892,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att 30 meter extra driver är värt risken. Problemet: en missad fairway kostar dig 0.37 slag i snitt – varje hål, varje runda, hela säsongen.",
         "bild_5_kort_plan": "1. Välj tre-wood på alla hål smalare än 30 meter\n2. Sätt ett fairway-mål: minst 7 av 14 hål\n3. Driver är bara ett vapen – inte ett krav",
         "bild_6_kommentarsfråga": "Hur ofta väljer du medvetet tre-wood över driver? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 65,
@@ -778,7 +906,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att 63 meter inte spelar så stor roll. Problemet: 63 meter är skillnaden mellan att ha en wedge in mot flaggan och ett halvt 5-järn – och det syns på scoren.",
         "bild_5_kort_plan": "1. Fokusera på att öka distansen stegvis, inte drastiskt\n2. Hitta din 'performance average' – inte bara snittet\n3. Träna konsistens i centerkontakt, inte maxkraft",
         "bild_6_kommentarsfråga": "Hur långt slår du driver i snitt på ett normalt hål? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 66,
@@ -790,7 +920,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du behöver bättre järnklubbor. Problemet: du behöver korta ned ditt approach-avstånd – och det börjar med bättre tee-spel.",
         "bild_5_kort_plan": "1. Mät ditt genomsnittliga approach-avstånd under 3 rundor\n2. Sträva efter att korta ned det med 5–10 meter\n3. En kortare approach från fairway > längre från rough",
         "bild_6_kommentarsfråga": "Vet du faktiskt från hur långt du approacherar i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 67,
@@ -802,7 +934,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du vet dina wedge-distanser ungefärligen. Problemet: ungefär är inte tillräckligt – 5 meters underskott landar du i framsida bunker eller fringe.",
         "bild_5_kort_plan": "1. Rangeträna: mät exakt carry-distans för 70%, 80% och 100% sving\n2. Skriv ned siffrorna och ha dem med dig\n3. Välj alltid utifrån carry – inte total distans",
         "bild_6_kommentarsfråga": "Vet du exakt hur långt du bär din 56-wedge på 80% sving? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 68,
@@ -814,7 +948,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att proximity bara spelar roll för professionella spelare. Problemet: 70 fot vs 40 fot är skillnaden mellan en 3-putt och en 2-putt – och det kostar dig ett slag per hål.",
         "bild_5_kort_plan": "1. Sikta alltid mot center av green, inte pinnen\n2. En bra miss är 40 fot bort – inte i bunkern\n3. Proximity-träning: sikta på specifik yta, inte ett smalt mål",
         "bild_6_kommentarsfråga": "Tänker du på var du missar greenen, eller slår du bara mot flaggan? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 69,
@@ -826,7 +962,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att förlorad distans med ålder gör dig till en sämre spelare. Problemet: ökad precision och erfarenhet kan kompensera – om du uppdaterar din strategi.",
         "bild_5_kort_plan": "1. Uppdatera din tee-strategi när du märker att längden ändras\n2. Välj tee som matchar din nuvarande distans\n3. Exploatera din ökade precision med smartare positioner",
         "bild_6_kommentarsfråga": "Har du anpassat din tee-strategi till hur du faktiskt slår idag? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 70,
@@ -838,7 +976,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du borde göra par på par 5 för att det 'är lättare' med ett extra slag. Problemet: par 5 är statistiskt ditt svåraste hål – inte ditt lättaste.",
         "bild_5_kort_plan": "1. Spela par 5 i tre säkra slag – aldrig forsera\n2. Mål: hamna på 80–100 meter inför tredje slag\n3. Bogey = lyckad strategi, inte misslyckande",
         "bild_6_kommentarsfråga": "Vad är ditt genomsnittliga resultat på par 5 just nu? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 71,
@@ -850,7 +990,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en missad fairway är en liten sak. Problemet: det är en 0.37-slags skill och den multipliceras 14 gånger per runda – det är 5 slag du kan ta tillbaka.",
         "bild_5_kort_plan": "1. Sätt fairway-mål: 8 av 14 per runda\n2. Välj aktiv säker sida att missa åt på varje hål\n3. Track dina fairways varje runda",
         "bild_6_kommentarsfråga": "Vet du hur många fairways du träffar per runda i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 72,
@@ -862,7 +1004,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att problematiken är att du missar 3-metersputtsen. Problemet: du lämnar dig på 5-6 meter efter chipsen, och den puttsen sjunker ingen – inte ens bra spelare konsekvent.",
         "bild_5_kort_plan": "1. Mål: alla chips ska landa under 2 meter från hål\n2. Öva landningspunktens precision, inte distansen\n3. Välj klubba för lägsta, rakaste bana mot hål",
         "bild_6_kommentarsfråga": "Vad tränar du mest: puttning eller chipsens proximity? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 73,
@@ -874,7 +1018,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du måste göra birdies för att sänka din handicap. Problemet: birdies är lika sällsynta för en 10-hcp som de är för dig – skillnaden är dubbelbogey-frekvensen.",
         "bild_5_kort_plan": "1. Räkna birdies per runda – chansen är du gör max 1–2\n2. Fokusera på att minimera stora misstag istället\n3. Par = bra, bogey = okej, dubbel = problemet",
         "bild_6_kommentarsfråga": "Hur många birdies gör du per runda i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 74,
@@ -886,7 +1032,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rough är din värsta fiende från tee. Problemet: fairwaybunkern straffar din GIR-chans mer än rough gör – det är det lie du verkligen måste undvika.",
         "bild_5_kort_plan": "1. Lär dig exakt var alla fairwaybunkers ligger på dina hemmahål\n2. Justera tee-slag för att aktivt undvika bunkers\n3. Välj kortare klubba om bunkers är i riskzonen",
         "bild_6_kommentarsfråga": "Hur aktiv är du i att undvika fairwaybunkers i din tee-strategi? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 75,
@@ -898,7 +1046,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att par 5 är ett 'lättare' hål. Problemet: för 20-25 hcp är det statistiskt det farligaste hålet – med mest variation och störst skadepotential.",
         "bild_5_kort_plan": "1. Spela par 5 med bogey som mål – inte par\n2. Tre säkra slag till bra position – sedan wedge\n3. Undvik vatten och bunkers till varje pris",
         "bild_6_kommentarsfråga": "Vad är ditt snittresultat på par 5 just nu? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 76,
@@ -910,7 +1060,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att rough bara påverkar träffsäkerheten. Problemet: du approacherar också från längre håll och med sämre kontroll – dubbelt straffad.",
         "bild_5_kort_plan": "1. Värdera fairway-träff som 15–20 meters bonus på nästa slag\n2. Välj alltid säker tee-klubba på hål med vatten\n3. Längre drives i rough ger dig längre approacher",
         "bild_6_kommentarsfråga": "Tänker du på approach-avstånd när du väljer tee-slag? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 77,
@@ -922,7 +1074,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du borde rädda hålen från 50 meter. Problemet: statistiken säger att inte ens scratch-spelare gör det konsekvent. Förvänta inte mer av dig än av dem.",
         "bild_5_kort_plan": "1. Anta att missad green = tappat slag – räkna in det i strategin\n2. Prioritera GIR framför allt annat\n3. Spela mot position, inte mot pin – minska risken för 50m short-game",
         "bild_6_kommentarsfråga": "Hur ofta lyckas du med upp och ned från 50 meter? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 78,
@@ -934,7 +1088,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att din 5-meterskompis aldrig missar fairway. Problemet: han missar nästan lika ofta som du – han undviker bara OB och hanterar rough-läget bättre.",
         "bild_5_kort_plan": "1. Sluta sikta på att träffa fairway perfekt – sikta på att undvika katastrofen\n2. Välj alltid en 'säker sida' att missa åt\n3. Ha alltid en plan för när bollen hamnar i rough",
         "bild_6_kommentarsfråga": "Har du ett tydligt mål på varje tee eller slår du och hoppas? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 79,
@@ -946,7 +1102,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att lob-wedge ser mest kompetent ut. Problemet: klubbvalet borde baseras på sannolikhet, inte estetik – och lob-wedge vinner sällan den jämförelsen.",
         "bild_5_kort_plan": "1. Välj alltid lägsta möjliga loft som klarar hindret\n2. Putter > chip om boll är nära fringe och greenen är lång\n3. Spara lob-wedgen för när du MÅSTE lyfta bollen högt",
         "bild_6_kommentarsfråga": "Vilken klubba tar du instinktivt kring greenen? Kan du motivera varför? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 80,
@@ -958,7 +1116,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att ditt tee-problem är att du inte slår tillräckligt rakt. Problemet: bland damer är det distansen som skiljer nivåerna, inte fairway-precision.",
         "bild_5_kort_plan": "1. Fokusera på att öka distansen stegvis med bättre kontakt\n2. Välj tee-nivå som matchar din faktiska längd\n3. Jobba på centerkontakt före fart",
         "bild_6_kommentarsfråga": "Vad är din starkaste sida från tee – distans eller precision? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 81,
@@ -970,7 +1130,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en missad fairway kan räddas med ett bra järnslag. Problemet: statistiken visar att kostnaderna kumuleras hål efter hål, tee-slag efter tee-slag.",
         "bild_5_kort_plan": "1. Bryt kedjan tidigt: recovery-slag direkt ut på fairway\n2. Sikta på position, inte distans från rough\n3. Acceptera ett 'halv-slag-tappat' hål och gå vidare",
         "bild_6_kommentarsfråga": "Hur ofta försöker du 'räddas' med ett riskabelt slag från rough? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 82,
@@ -982,7 +1144,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du förlorar distans snabbt efter 30. Problemet: datan visar att de flesta herrar håller sin driverlängd stabil till 40-årsåldern – det är efter 50 det märks.",
         "bild_5_kort_plan": "1. Om du är i 30-årsåldern: fokusera på strategi, inte distans\n2. Bygg din fördel på erfarenhet + stabil längd\n3. Öva smarta val, inte mer fart",
         "bild_6_kommentarsfråga": "Känner du att du slår kortare nu än för 10 år sedan? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 83,
@@ -994,7 +1158,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att recovery-slag är ett litet problem. Problemet: om 3 av 14 driverhål kräver recovery är du statistiskt på väg mot 90+ per runda – oavsett hur bra resten av ditt spel är.",
         "bild_5_kort_plan": "1. Räkna recovery-slag per runda under 3 omgångar\n2. Identifiera vilka hål de inträffar på\n3. Byt strategi på de specifika hålen",
         "bild_6_kommentarsfråga": "Räknar du dina recovery-slag och reflekterar över dem? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 84,
@@ -1006,7 +1172,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du borde kunna reproducera din bästa runda. Problemet: din bästa runda är ett statistiskt undantag. Din genomsnittsrunda är det du faktiskt kan styra.",
         "bild_5_kort_plan": "1. Fokusera på att minska variansen, inte öka toppen\n2. Sätt som mål att slå 5 slag under ditt snitt\n3. Konsistens = fler bra rundor, inte enstaka lysande",
         "bild_6_kommentarsfråga": "Hur stor är skillnaden mellan din bästa och sämsta runda på senaste månaden? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 85,
@@ -1018,7 +1186,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bättre spelare träffar fairway nästan alltid. Problemet: scratch träffar bara var annan fairway – precis som de flesta amatörer. Skillnaden är vad de gör med missen.",
         "bild_5_kort_plan": "1. Acceptera att du kommer missa fairways – alla gör det\n2. Ha en plan för vad du gör från rough\n3. Fokusera på att eliminera OB och hazard, inte på att alltid träffa fairway",
         "bild_6_kommentarsfråga": "Vad är din fairway-procent per runda? Har du ens räknat? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 86,
@@ -1030,7 +1200,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att par 5 ger dig en extra chans för birdie. Problemet: för höga handicap är par 5 ett hål med ökad skadrisk, inte ökad birdie-chans.",
         "bild_5_kort_plan": "1. Mål på par 5: lämna dig 80–90 meter inför tredje slag\n2. Välj säkert andra slag mot bra position\n3. Aldrig forsera mot greenen i 2 på långa par 5",
         "bild_6_kommentarsfråga": "Hur många birdies har du gjort på par 5 hittills i år? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 87,
@@ -1042,7 +1214,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att distans in är allt. Problemet: en 120-meters approach ur rough ger sämre GIR-chans än 140 meter ur fairway. Lien spelar stor roll.",
         "bild_5_kort_plan": "1. Prioritera alltid fairway framför kortare distans i rough\n2. Taktik: flytta tee-slagets mål åt fairway-sidan\n3. Från fairwaybunker: tänk position, inte distans",
         "bild_6_kommentarsfråga": "Har du märkt att du träffar greener mer sällan från rough, även på kortare avstånd? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 88,
@@ -1054,7 +1228,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att lång puttträning är mer värdefull. Problemet: du missar troligen fler 1.5-meters puttar per runda än 5-meters puttar – och de kostar lika mycket.",
         "bild_5_kort_plan": "1. Öva uteslutande 1–2-meters puttar i 75% av all puttträning\n2. Bygg rutin för korta puttar under press\n3. Gå aldrig upp utan att ha siktat noggrant på korta puttar",
         "bild_6_kommentarsfråga": "Hur ofta missar du en putt under 1.5 meter? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 89,
@@ -1066,7 +1242,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du 'förlorar distans' när du väljer bort driver. Problemet: du vinner position, kortare approach och bättre scoring-odds. Det är en bra affär.",
         "bild_5_kort_plan": "1. Ha en regel: byt till tre-wood om hål är under 30 meter bred\n2. Identifiera 3 hål per runda där driver är onödig risk\n3. Spela säkert och mät effekten på scoring",
         "bild_6_kommentarsfråga": "Har du testat att ta bort driver från några specifika hål? Vad hände? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 90,
@@ -1078,7 +1256,9 @@
         "bild_4_du_tror_men_problemet": "Du tror kanske att bryta 70 är något du kan planera för. Problemet: 98% av alla amatörer gör det aldrig ens en gång – det är det svåraste momentet i golf.",
         "bild_5_kort_plan": "1. Respektera vad bryta 70 verkligen kräver\n2. Fokusera på bryta 80 som det realistiska 'elitmålet'\n3. Bygg fundament: konsistens, skadestopp, smart strategi",
         "bild_6_kommentarsfråga": "Vad är ditt realistiska score-mål för nästa säsong? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 91,
@@ -1090,7 +1270,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att målet är att alltid träffa greenen. Problemet: inte ens scratch-spelare träffar alla greener – de missar bara bättre och kortare.",
         "bild_5_kort_plan": "1. Öva med mål: sikta på specifik zon av greenen\n2. Välj rätt 'miss-sida' baserat på pin-position\n3. Missa alltid på sidan med mer grön och bra utslagsvinkel",
         "bild_6_kommentarsfråga": "Har du en strategi för var du siktar på greenen – eller bara mot pinnen? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 92,
@@ -1102,7 +1284,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att bogey-strategi är att ge upp. Problemet: att 'hålla par' på ett hål du normalt gör dubbelbogey på är ett enormt statistiskt genombrott.",
         "bild_5_kort_plan": "1. Identifiera dina tre svåraste hål per runda\n2. Spela dessa hål med 'bogey som seger'-mentalitet\n3. Jaga par och birdie bara på de hål du trivs med",
         "bild_6_kommentarsfråga": "Vad är ditt svåraste hål på hemmabanan och vad är din strategi där? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 93,
@@ -1114,7 +1298,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att 10 meter extra driver ger dig 10 meters kortare approach. Problemet: det stämmer bara om du också träffar fairway – och kortare driver i fairway > längre i rough.",
         "bild_5_kort_plan": "1. Träna centerkontakt – det ger mer distans än hårdare sving\n2. Mät ditt snittliga approach-avstånd varje runda\n3. Minska approach-avståndet med 5 meter = mätbar GIR-förbättring",
         "bild_6_kommentarsfråga": "Hur fokuserar du på att öka driverlängden – och vad har du testat? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 94,
@@ -1126,7 +1312,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att du kan 'ha en chans' att rädda från greenside bunker. Problemet: de flesta amatörer har låg save-rate ur bunker – det är bland de svåraste situationerna i amatörgolf.",
         "bild_5_kort_plan": "1. Planera alltid att undvika bunkern vid approach\n2. En lösning kort-till-säker är bättre än lång-till-bunker\n3. Träna bunkerslag regelbundet – det betalar sig",
         "bild_6_kommentarsfråga": "Hur stor är din save-rate ur greenside bunker i snitt? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 95,
@@ -1138,7 +1326,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att handicapsänkning kräver dramatisk teknikförbättring. Problemet: smartare val vid tee-boxen på 2 hål per runda kan ge dig en hel handicap på en säsong.",
         "bild_5_kort_plan": "1. Välj säkrare klubba på dina 2 svåraste tee-hål\n2. Track fairways per runda under 5 rundor\n3. Jämför scoring på hål du träffar vs missar fairway",
         "bild_6_kommentarsfråga": "Tror du att 2 extra fairways per runda vore genomförbart för dig? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 96,
@@ -1150,7 +1340,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att imponerande putt-träning på range är det bästa. Problemet: de puttar du missar mest i verkliga rundor är 1–2 meter – och det är de du borde öva.",
         "bild_5_kort_plan": "1. Dedikera 50% av putt-träningen till 1–2-metersputtarna\n2. Bygg en konsekvent rutin för korta puttar\n3. Gå aldrig fram utan att ha läst linje på 1.5 meter",
         "bild_6_kommentarsfråga": "Hur många gånger per runda missar du en putt under 2 meter? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 97,
@@ -1162,7 +1354,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att offensivt spel ger bättre scoring. Problemet: statistiken visar konsekvent att konservativt spel med undvikande av katastrofer sänker handicapen snabbare.",
         "bild_5_kort_plan": "1. Definiera din 'risk-regel': när tar du risk och när inte\n2. Spela aldrig riskfullt på ett hål du redan ligger dåligt på\n3. Acceptera bogey – kämp för att undvika dubbeln",
         "bild_6_kommentarsfråga": "Vilken är din tendens – för aggressiv eller för defensiv på banan? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 98,
@@ -1174,7 +1368,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en dålig runda suddar ut allt du lärt dig. Problemet: en runda är statistiskt irrelevant. Det är trenden av 10–20 rundor som mäter din verkliga förbättring.",
         "bild_5_kort_plan": "1. Track ditt score-snitt på senaste 10 rundor\n2. Döm inte din progress av enstaka rundor\n3. Förbättring = en snittminskning på 2–3 slag per säsong",
         "bild_6_kommentarsfråga": "Tittar du på ditt snitt eller bara på ditt bästa resultat? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 99,
@@ -1186,7 +1382,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att lob-wedge alltid är det bästa valet nära greenen. Problemet: statistiken visar att lägre loft konsekvent ger bättre save-rate i de flesta situationer.",
         "bild_5_kort_plan": "1. Prova en hel runda med max sand-wedge kring greenen\n2. Välj 7-järn eller 8-järn när ingen hinder finns\n3. Mät din save-rate jämfört med normalt",
         "bild_6_kommentarsfråga": "Har du provat att chippa med lägre loft? Vad var resultatet? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     },
     {
       "id": 100,
@@ -1198,7 +1396,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att 5 handicap-slag kräver dramatisk förbättring av alla delar av spelet. Problemet: det kräver faktiskt bara marginella förbättringar på 2–3 specifika områden.",
         "bild_5_kort_plan": "1. Välj ett förbättringsområde: fairway, dubbelbogey eller chip\n2. Arbeta uteslutande med det i 10 rundor\n3. Mät förändringen och gå vidare till nästa",
         "bild_6_kommentarsfråga": "Vad är ditt konkreta mål för nästa golfsäsong? Kommentera! 👇"
-      }
+      },
+      "used": false,
+      "used_at": null
     }
   ]
 }
