@@ -66,7 +66,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att en bra drive måste vara lång. Problemet: den viktigaste driven är ofta den som ger dig ett spelbart andraslag.",
         "bild_5_kort_plan": "1. Välj klubba som ger spelbar boll\n2. Bestäm säker miss-sida innan du slår\n3. 3-wood kan slå driver på smala hål",
         "bild_6_kommentarsfråga": "Vilket hål på din hemmabana borde du slå mindre än driver på? Kommentera 👇"
-      }
+      },
+      "used": true,
+      "used_at": "2026-06-15T22:40:27.261041+00:00"
     },
     {
       "id": 6,
