@@ -52,7 +52,9 @@
         "bild_4_du_tror_men_problemet": "Du tror att par 5 är lättare eftersom du har fler slag. Problemet: fler slag betyder också fler chanser att hamna i trubbel.",
         "bild_5_kort_plan": "1. Spela par 5 i tre smarta slag\n2. Undvik vatten, OB och fairwaybunkrar\n3. Se bogey som ett helt okej resultat",
         "bild_6_kommentarsfråga": "Ser du par 5 som chans eller risk? Kommentera 👇"
-      }
+      },
+      "used": true,
+      "used_at": "2026-06-15T22:31:44.487814+00:00"
     },
     {
       "id": 5,
